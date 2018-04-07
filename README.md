@@ -87,14 +87,18 @@ for i in range(len(lats)):
             types.append(j['categories'][0]['title'])
         except:
             types.append('n/a')
+    #Finding the Ranking of Restaurants
     something=np.argsort(tempdist)
     for k in range(len(something)):
         placeholder=np.where(something==k)
         for l in placeholder:
             for m in l:
                 distranks.append(m+1)
+    #Finding Normalized Distance Values (Needs Work)
     try:
         mini=min(temps)
+        if mini<10:
+            mini=10
         for j in temps:
             normalized.append(j/mini)
     except:
@@ -117,18 +121,6 @@ for i in range(len(lats)):
     except:
         continue
 ```
-
-
-```python
-len(normalized)
-```
-
-
-
-
-    4839
-
-
 
 
 ```python
@@ -238,24 +230,14 @@ f.head()
 
 
 ```python
+#Removing N/A's, Making Prices floats
 g=f[f['Price']!='n/a']
-```
-
-
-```python
 g['Price']=g['Price'].astype(float)
 ```
 
-    C:\Users\J\Anaconda3\lib\site-packages\ipykernel_launcher.py:1: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-      """Entry point for launching an IPython kernel.
-    
-
 
 ```python
+#Removing Review Count Less Than 100 (Not sure if necessary)
 h=g[g['Review Count']>100]
 ```
 
@@ -268,21 +250,11 @@ f.to_csv('evenbetterdata.csv')
 ```python
 #Averages grouped by price
 h=g.groupby('Rank of Distance').mean()
-h.index
 ```
 
 
-
-
-    Int64Index([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17,
-                18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34,
-                35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50],
-               dtype='int64', name='Rank of Distance')
-
-
-
-
 ```python
+#These 3 Graphs are binning distances based on rank of restaurant (As in is the restaurant the closest, 2nd closest, 3rd closest, etc.)
 x=h.index
 y=h['Price']
 fit = np.polyfit(x,y,1)
@@ -292,14 +264,14 @@ plt.text(x=0,y=2,s='Y = -.00313X + 2.21')
 plt.text(x=0,y=1.96,s='$R^{2}$ = .245, p = .000262')
 plt.xlabel('Closeness of Restaurants')
 plt.ylabel('Average Price')
-plt.title('Price versus Distance of Restaurant')
+plt.title('Price versus Distance of Restaurant (Ranking)')
 plt.show()
 print(linregress(x,y))
 
 ```
 
 
-![png](output_12_0.png)
+![png](output_10_0.png)
 
 
     LinregressResult(slope=-0.0031347108256813308, intercept=2.2103897825041381, rvalue=-0.4944618199207057, pvalue=0.0002623979769123308, stderr=0.0007953595398227768)
@@ -316,13 +288,13 @@ plt.text(x=30,y=4,s='Y = .00447X + 4.05')
 plt.text(x=30,y=3.95,s='$R^{2}$ = .628, p = 7.17E-12')
 plt.xlabel('Closeness of Restaurants')
 plt.ylabel('Average Price')
-plt.title('Rating versus Distance of Restaurant')
+plt.title('Rating versus Distance of Restaurant (Ranking)')
 plt.show()
 print(linregress(x,y))
 ```
 
 
-![png](output_13_0.png)
+![png](output_11_0.png)
 
 
     LinregressResult(slope=0.0044746399020663945, intercept=4.0479877243904623, rvalue=0.79229336818706375, pvalue=7.1744065514125857e-12, stderr=0.00049737182772943082)
@@ -330,9 +302,46 @@ print(linregress(x,y))
 
 
 ```python
-h=g.groupby('Food Type')
-i=h.get_group('Italian')
-sns.distplot(i['Price'])
+x=h.Price
+y=h.Rating
+fit = np.polyfit(x,y,1)
+fit_fn = np.poly1d(fit) 
+plt.plot(x,y, 'yo', x, fit_fn(x), '--k')
+plt.xlabel('Average Price of Restaurant')
+plt.ylabel('Average Rating of Restaurant')
+plt.text(x=1.95,y=4,s='Y = -.433X + 5.09')
+plt.text(x=1.95,y=3.95,s='$R^{2}$ = .237, p = .000342')
+plt.title('Price versus Rating of Restaurant (Ranking)')
+plt.show()
+print(linregress(x,y))
+
+```
+
+
+![png](output_12_0.png)
+
+
+    LinregressResult(slope=-0.43332607132890683, intercept=5.0852725883166903, rvalue=-0.48641557188077089, pvalue=0.00034156646341179723, stderr=0.11234733575531028)
+    
+
+
+```python
+#Distributions of Prices for each Restaurant Type  (Doesn't look very presentable) Could show a couple largest ones (French, Italian, Pizza, etc.)
+#h=g.groupby('Food Type')
+#for i in g['Food Type'].unique():
+#    j=h.get_group(i)
+#    sns.distplot(j['Price'])
+#    plt.title(f'Distribution of Prices of {i} Restaurants')
+#    plt.show()
+```
+
+
+```python
+#Total Distribution of Prices with N/A's included
+i=f.groupby('Price').count()
+plt.pie(i['Country'],labels=i.index,autopct="%1.1f%%", shadow=True, startangle=140,explode=(0,0,0,0,.1))
+plt.axis('equal')
+plt.title('Distribution of Restaurant Prices')
 plt.show()
 ```
 
@@ -342,9 +351,11 @@ plt.show()
 
 
 ```python
-h=g.groupby('Food Type')
-i=h.get_group('Seafood')
-sns.distplot(i['Price'])
+#Total Distribution of Prices with N/A's excluded
+i=h.groupby('Price').count()
+plt.pie(i['Country'],labels=i.index,autopct="%1.1f%%", shadow=True, startangle=140,explode=(0,0,0,0))
+plt.axis('equal')
+plt.title("Distribution of Restaurant Prices (N/A's Removed)")
 plt.show()
 ```
 
@@ -354,35 +365,11 @@ plt.show()
 
 
 ```python
-i=f.groupby('Price').count()
-plt.pie(i['Country'],labels=i.index,autopct="%1.1f%%", shadow=True, startangle=140,explode=(0,0,0,0,.1))
-plt.axis('equal')
-plt.title('Distribution of Restaurant Prices')
-plt.show()
-```
-
-
-![png](output_16_0.png)
-
-
-
-```python
-i=h.groupby('Price').count()
-plt.pie(i['Country'],labels=i.index,autopct="%1.1f%%", shadow=True, startangle=140,explode=(0,0,0,0))
-plt.axis('equal')
-plt.title("Distribution of Restaurant Prices (N/A's Removed)")
-plt.show()
-```
-
-
-![png](output_17_0.png)
-
-
-
-```python
+#Creating Dataframe with Top 10 Restaurant Type Counts
 i=f.groupby('Food Type').count()
 top=pd.DataFrame(i.nlargest(10,'Country'))
-top
+j=top['Country']
+j['Other']=sum(i['Country'])-sum(j)
 ```
 
 
@@ -406,10 +393,10 @@ top
   <thead>
     <tr style="text-align: right;">
       <th></th>
+      <th>Unnamed: 0</th>
       <th>Country</th>
       <th>Distance</th>
       <th>Monument</th>
-      <th>Normalized Distance</th>
       <th>Price</th>
       <th>Rank of Distance</th>
       <th>Rating</th>
@@ -483,61 +470,6 @@ top
       <td>184</td>
       <td>184</td>
     </tr>
-    <tr>
-      <th>Cafes</th>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-      <td>174</td>
-    </tr>
-    <tr>
-      <th>Seafood</th>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-      <td>137</td>
-    </tr>
-    <tr>
-      <th>Bars</th>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-      <td>112</td>
-    </tr>
-    <tr>
-      <th>American (New)</th>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-      <td>99</td>
-    </tr>
-    <tr>
-      <th>Pubs</th>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-      <td>98</td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -546,12 +478,7 @@ top
 
 
 ```python
-j=top['Country']
-j['Other']=sum(i['Country'])-sum(j)
-```
-
-
-```python
+#Restaurant Type Distribution
 plt.pie(j,labels=j.index,autopct="%1.f%%", shadow=True)
 plt.axis('equal')
 plt.title('Distribution of Restaurant Types')
@@ -559,11 +486,12 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](output_17_0.png)
 
 
 
 ```python
+#Total Distribution of Distances
 g=f[f['Distance']<6000]
 rs = np.random.RandomState(0)
 n, p = 40, 8
@@ -578,15 +506,17 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](output_18_0.png)
 
 
 
 ```python
+#Binning Distances
 g=f[f['Price']!='n/a']
 g['Price']=g['Price'].astype(float)
 labels=[i for i in range(0,4000,100)]
 g['Distance']=pd.cut(g['Distance'],[i for i in range(0,4100,100)],labels=labels)
+i=g.groupby('Distance').mean()
 ```
 
     C:\Users\J\Anaconda3\lib\site-packages\ipykernel_launcher.py:2: SettingWithCopyWarning: 
@@ -605,79 +535,7 @@ g['Distance']=pd.cut(g['Distance'],[i for i in range(0,4100,100)],labels=labels)
 
 
 ```python
-i=h.groupby('Distance').mean()
-x=h.index
-y=h['Price']
-fit = np.polyfit(x,y,1)
-fit_fn = np.poly1d(fit) 
-plt.plot(x,y, 'yo', x, fit_fn(x), '--k')
-plt.text(x=0,y=2,s='Y = -.00313X + 2.21')
-plt.text(x=0,y=1.96,s='$R^{2}$ = .245, p = .000262')
-plt.xlabel('Closeness of Restaurants')
-plt.ylabel('Average Price')
-plt.title('Price versus Distance of Restaurant')
-plt.show()
-print(linregress(x,y))
-```
-
-    LinregressResult(slope=-4.1932818082761443e-05, intercept=2.1712041704624463, rvalue=-0.37512291237330669, pvalue=0.01707539812091562, stderr=1.6809574477544837e-05)
-    
-
-
-```python
-i.Price
-```
-
-
-
-
-    Distance
-    0       2.302632
-    100     2.189024
-    200     2.155660
-    300     2.257384
-    400     2.211155
-    500     2.204461
-    600     2.186235
-    700     2.101887
-    800     2.132530
-    900     2.121359
-    1000    2.127273
-    1100    2.129944
-    1200    2.146341
-    1300    1.993421
-    1400    1.873134
-    1500    2.150442
-    1600    2.086207
-    1700    2.144737
-    1800    2.128571
-    1900    2.064516
-    2000    2.135593
-    2100    2.232558
-    2200    2.037736
-    2300    1.833333
-    2400    2.113636
-    2500    2.048780
-    2600    2.040000
-    2700    1.829268
-    2800    2.090909
-    2900    1.761905
-    3000    2.000000
-    3100    1.850000
-    3200    2.111111
-    3300    1.956522
-    3400    2.000000
-    3500    2.357143
-    3600    2.157895
-    3700    2.230769
-    3800    2.000000
-    3900    2.083333
-    Name: Price, dtype: float64
-
-
-
-
-```python
+#These 3 Graphs are binning the distances based purely on meters away
 x=i.index.categories
 y=i['Price']
 fit = np.polyfit(x,y,1)
@@ -685,16 +543,62 @@ fit_fn = np.poly1d(fit)
 plt.plot(x,y, 'yo', x, fit_fn(x), '--k')
 plt.text(x=0,y=2,s='Y = -.00313X + 2.21')
 plt.text(x=0,y=1.96,s='$R^{2}$ = .245, p = .000262')
-plt.xlabel('Closeness of Restaurants')
+plt.xlabel('Distance of Restaurants (Meters)')
 plt.ylabel('Average Price')
-plt.title('Price versus Distance of Restaurant')
+plt.title('Price versus Distance of Restaurant (Meters)')
 plt.show()
 print(linregress(x,y))
 ```
 
 
-![png](output_25_0.png)
+![png](output_20_0.png)
 
 
     LinregressResult(slope=-4.1932818082761443e-05, intercept=2.1712041704624463, rvalue=-0.37512291237330669, pvalue=0.01707539812091562, stderr=1.6809574477544837e-05)
+    
+
+
+```python
+x=i.index.categories
+y=i['Rating']
+fit = np.polyfit(x,y,1)
+fit_fn = np.poly1d(fit) 
+plt.plot(x,y, 'yo', x, fit_fn(x), '--k')
+plt.text(x=500,y=4,s='Y = -8.27E-6*X + 4.17')
+plt.text(x=500,y=3.95,s='$R^{2}$ = .011, p = .511')
+plt.xlabel('Distance of Restaurants (Meters)')
+plt.ylabel('Average Rating')
+plt.title('Rating versus Distance of Restaurant (Meters)')
+plt.show()
+print(linregress(x,y))
+```
+
+
+![png](output_21_0.png)
+
+
+    LinregressResult(slope=-8.2769916301354592e-06, intercept=4.1672725017609462, rvalue=-0.10694244864306066, pvalue=0.51130722728678979, stderr=1.2483398612665412e-05)
+    
+
+
+```python
+x=i.Price
+y=i.Rating
+fit = np.polyfit(x,y,1)
+fit_fn = np.poly1d(fit) 
+plt.plot(x,y, 'yo', x, fit_fn(x), '--k')
+plt.text(x=1.8,y=4,s='Y = -.112X + 4.38')
+plt.text(x=1.8,y=3.96,s='$R^{2}$ = .026, p = .320')
+plt.xlabel('Average Price of Restaurant')
+plt.ylabel('Average Rating of Restaurant')
+plt.title('Price versus Rating of Restaurant (Meters)')
+plt.show()
+print(linregress(x,y))
+```
+
+
+![png](output_22_0.png)
+
+
+    LinregressResult(slope=-0.11169806513701161, intercept=4.3845182343813534, rvalue=-0.16132575881406544, pvalue=0.31998275552793715, stderr=0.11084696768090577)
     
