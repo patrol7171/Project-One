@@ -252,9 +252,11 @@ f.to_csv('evenbetterdata.csv')
 h=g.groupby('Rank of Distance').mean()
 ```
 
+# These 3 Graphs are binning distances based on rank of restaurant (As in is the restaurant the closest, 2nd closest, 3rd closest, etc.)
+
+
 
 ```python
-#These 3 Graphs are binning distances based on rank of restaurant (As in is the restaurant the closest, 2nd closest, 3rd closest, etc.)
 x=h.index
 y=h['Price']
 fit = np.polyfit(x,y,1)
@@ -271,7 +273,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_10_0.png)
+![png](output_11_0.png)
 
 
     LinregressResult(slope=-0.0031347108256813308, intercept=2.2103897825041381, rvalue=-0.4944618199207057, pvalue=0.0002623979769123308, stderr=0.0007953595398227768)
@@ -294,7 +296,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_11_0.png)
+![png](output_12_0.png)
 
 
     LinregressResult(slope=0.0044746399020663945, intercept=4.0479877243904623, rvalue=0.79229336818706375, pvalue=7.1744065514125857e-12, stderr=0.00049737182772943082)
@@ -318,7 +320,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_12_0.png)
+![png](output_13_0.png)
 
 
     LinregressResult(slope=-0.43332607132890683, intercept=5.0852725883166903, rvalue=-0.48641557188077089, pvalue=0.00034156646341179723, stderr=0.11234733575531028)
@@ -346,7 +348,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](output_15_0.png)
 
 
 
@@ -360,7 +362,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](output_16_0.png)
 
 
 
@@ -486,7 +488,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](output_18_0.png)
 
 
 
@@ -506,7 +508,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](output_19_0.png)
 
 
 
@@ -533,9 +535,10 @@ i=g.groupby('Distance').mean()
       after removing the cwd from sys.path.
     
 
+# These 3 Graphs are binning the distances based purely on meters away
+
 
 ```python
-#These 3 Graphs are binning the distances based purely on meters away
 x=i.index.categories
 y=i['Price']
 fit = np.polyfit(x,y,1)
@@ -551,7 +554,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_20_0.png)
+![png](output_22_0.png)
 
 
     LinregressResult(slope=-4.1932818082761443e-05, intercept=2.1712041704624463, rvalue=-0.37512291237330669, pvalue=0.01707539812091562, stderr=1.6809574477544837e-05)
@@ -574,7 +577,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_21_0.png)
+![png](output_23_0.png)
 
 
     LinregressResult(slope=-8.2769916301354592e-06, intercept=4.1672725017609462, rvalue=-0.10694244864306066, pvalue=0.51130722728678979, stderr=1.2483398612665412e-05)
@@ -597,7 +600,7 @@ print(linregress(x,y))
 ```
 
 
-![png](output_22_0.png)
+![png](output_24_0.png)
 
 
     LinregressResult(slope=-0.11169806513701161, intercept=4.3845182343813534, rvalue=-0.16132575881406544, pvalue=0.31998275552793715, stderr=0.11084696768090577)
