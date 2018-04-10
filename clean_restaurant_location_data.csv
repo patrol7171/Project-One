@@ -1,0 +1,1594 @@
+,Country,Distance,Food Type,Monument,Price,Rating,Review Count
+4,US,2875.4713850000003,Barbeque,Statue of Liberty,2,4.0,982
+5,US,2997.02052,Mexican,Statue of Liberty,1,4.0,1440
+6,US,3169.11914,Italian,Statue of Liberty,2,4.0,595
+7,US,3529.086258,Cafes,Statue of Liberty,1,4.5,346
+8,US,2798.5730940000003,Cafes,Statue of Liberty,2,4.0,522
+9,US,3211.041203,Korean,Statue of Liberty,2,4.0,652
+10,US,3481.055344,Mexican,Statue of Liberty,2,4.0,793
+11,US,3072.4657039999997,Diners,Statue of Liberty,2,3.5,1149
+12,US,3533.57155,Latin American,Statue of Liberty,2,4.0,660
+13,US,2860.960719,Wine Bars,Statue of Liberty,3,4.0,546
+14,US,3660.664814,Seafood,Statue of Liberty,2,4.5,499
+15,US,3387.36199,Thai,Statue of Liberty,2,4.5,252
+16,US,2251.398278,American (New),Statue of Liberty,3,3.5,366
+17,US,3478.7061320000003,American (New),Statue of Liberty,2,4.0,837
+18,US,3409.4679560000004,Seafood,Statue of Liberty,2,4.5,245
+19,US,3002.990723,Cafes,Statue of Liberty,1,4.5,159
+21,FR,539.225701,French,Eiffel Tower,3,4.0,432
+22,FR,28.48577602,French,Eiffel Tower,4,4.0,353
+23,FR,968.852288,Basque,Eiffel Tower,2,4.5,169
+25,FR,510.6342142,French,Eiffel Tower,3,4.0,288
+26,FR,1308.196242,French,Eiffel Tower,2,4.5,304
+27,FR,599.4764585,French,Eiffel Tower,3,4.5,191
+28,FR,872.7408105000001,Coffee & Tea,Eiffel Tower,1,4.5,206
+29,FR,852.051111,French,Eiffel Tower,2,4.0,247
+30,FR,862.0951361,French,Eiffel Tower,4,4.0,201
+31,FR,1244.788568,Steakhouses,Eiffel Tower,3,4.0,385
+32,FR,6.800136618,French,Eiffel Tower,4,3.5,222
+33,FR,430.44918960000007,Italian,Eiffel Tower,2,4.0,173
+34,FR,617.3076262999999,French,Eiffel Tower,3,4.0,122
+35,FR,777.6413951000001,Bars,Eiffel Tower,2,4.0,118
+36,FR,542.5723118,French,Eiffel Tower,4,4.5,91
+37,FR,589.660589,French,Eiffel Tower,3,4.5,49
+38,FR,1227.020311,French,Eiffel Tower,4,4.5,105
+39,FR,1134.8446900000001,Modern European,Eiffel Tower,4,4.5,58
+41,GB,1312.924467,Indian,Big Ben,2,4.5,1147
+44,GB,913.1816369,Coffee & Tea,Big Ben,1,4.5,306
+45,GB,806.5380231,Wine Bars,Big Ben,2,4.5,371
+49,GB,1421.887663,British,Big Ben,3,4.5,286
+50,GB,1368.559416,Cafes,Big Ben,3,4.0,427
+51,GB,1524.148823,Coffee & Tea,Big Ben,2,4.5,272
+52,GB,1615.879009,Dim Sum,Big Ben,3,4.0,441
+54,GB,1588.6366480000002,Indian,Big Ben,2,4.0,410
+55,GB,1585.32312,Steakhouses,Big Ben,2,4.5,287
+56,GB,1520.756379,Burgers,Big Ben,2,4.5,238
+57,GB,1718.324194,Indian,Big Ben,2,4.5,287
+58,GB,1546.237026,Mediterranean,Big Ben,3,4.5,232
+59,GB,1507.9673400000001,Seafood,Big Ben,2,4.0,252
+61,IT,300.8334215,Italian,Leaning Tower of Pisa,2,4.5,81
+63,IT,315.1673463,Italian,Leaning Tower of Pisa,1,4.5,27
+65,IT,254.7850225,Pizza,Leaning Tower of Pisa,1,4.5,15
+66,IT,434.3008643,Italian,Leaning Tower of Pisa,3,4.5,16
+67,IT,137.6574323,Italian,Leaning Tower of Pisa,2,4.0,13
+68,IT,1293.156737,Tuscan,Leaning Tower of Pisa,1,4.0,20
+69,IT,375.64822260000005,Trattorie,Leaning Tower of Pisa,2,4.5,13
+70,IT,668.2541539,Pizza,Leaning Tower of Pisa,2,4.5,15
+71,IT,353.007002,Cafes,Leaning Tower of Pisa,1,4.5,12
+72,IT,139.38681530000002,Italian,Leaning Tower of Pisa,2,3.5,20
+73,IT,195.51652819999998,Italian,Leaning Tower of Pisa,1,4.0,12
+74,IT,566.2359353999999,Italian,Leaning Tower of Pisa,2,4.0,14
+75,IT,1150.8757130000001,Italian,Leaning Tower of Pisa,2,4.5,13
+76,IT,1222.870214,Cafes,Leaning Tower of Pisa,1,4.0,13
+79,IT,508.68627239999995,Indian,Leaning Tower of Pisa,2,4.5,6
+81,IT,768.5970033,Pizza,Colosseum,1,4.5,439
+82,IT,692.1880932999999,Wine Bars,Colosseum,2,4.5,291
+83,IT,276.4716867,Sandwiches,Colosseum,1,4.5,161
+86,IT,1450.5164539999998,Sandwiches,Colosseum,2,4.5,356
+88,IT,585.6582573,Gelato,Colosseum,1,4.5,111
+89,IT,2014.49679,Ice Cream & Frozen Yogurt,Colosseum,1,4.5,387
+90,IT,1599.526366,Coffee & Tea,Colosseum,1,4.5,234
+91,IT,544.1680786000001,Mediterranean,Colosseum,1,4.5,103
+92,IT,1627.181478,Gluten-Free,Colosseum,3,4.5,178
+93,IT,1427.273144,Italian,Colosseum,2,4.0,399
+94,IT,2076.180793,Italian,Colosseum,2,4.0,440
+95,IT,529.0575824,Italian,Colosseum,2,4.0,113
+96,IT,1209.970378,Roman,Colosseum,2,4.5,181
+97,IT,1255.932835,Italian,Colosseum,2,4.0,316
+98,IT,1447.186354,Wine Bars,Colosseum,2,5.0,89
+99,IT,1996.78333,Pizza,Colosseum,1,4.5,160
+100,US,810.3892979,Burgers,Empire State Building,2,4.0,5342
+101,US,624.2942566,Bagels,Empire State Building,1,4.5,2071
+102,US,1576.689149,Food Stands,Empire State Building,1,4.5,8717
+103,US,761.7126017999999,American (New),Empire State Building,4,4.5,1757
+104,US,797.4929367999999,Italian,Empire State Building,2,4.0,4773
+105,US,201.7288713,Tapas Bars,Empire State Building,2,4.0,1671
+106,US,256.8742539,Steakhouses,Empire State Building,4,4.0,2060
+107,US,142.6502709,Korean,Empire State Building,1,4.0,2338
+110,US,99.39792504,Coffee & Tea,Empire State Building,2,4.0,1558
+111,US,446.186263,Italian,Empire State Building,3,4.0,1604
+113,US,370.086902,Coffee & Tea,Empire State Building,2,4.5,1296
+114,US,485.5600568,Mediterranean,Empire State Building,3,4.0,2048
+115,US,1983.5545829999999,Ramen,Empire State Building,2,4.0,9234
+116,US,1126.675756,Seafood,Empire State Building,2,4.0,4213
+117,US,1126.45714,American (New),Empire State Building,4,4.5,2447
+118,US,66.82133823,Chicken Wings,Empire State Building,2,4.0,1663
+119,US,459.7034603,French,Empire State Building,3,4.0,1288
+121,US,4392.452459,Bakeries,Hollywood Sign,1,4.5,7204
+122,US,3311.776245,Breakfast & Brunch,Hollywood Sign,2,4.0,2815
+123,US,3565.569291,Mediterranean,Hollywood Sign,3,4.0,1663
+125,US,2563.221158,Hot Dogs,Hollywood Sign,1,4.5,663
+126,US,2578.596139,Cafes,Hollywood Sign,1,4.0,532
+129,US,3775.901889,Performing Arts,Hollywood Sign,3,4.0,2065
+130,US,2759.4385829999997,Sandwiches,Hollywood Sign,2,4.0,496
+131,US,2497.806706,Vegan,Hollywood Sign,1,4.5,359
+132,US,2891.547129,Mexican,Hollywood Sign,2,4.5,472
+133,US,2549.276974,Bars,Hollywood Sign,2,5.0,151
+134,US,3676.379817,Seafood,Hollywood Sign,2,4.0,2332
+135,US,2833.348291,Coffee & Tea,Hollywood Sign,1,5.0,165
+136,US,3391.846867,Hookah Bars,Hollywood Sign,2,5.0,307
+138,US,3045.39285,American (Traditional),Hollywood Sign,2,3.5,1248
+139,US,2240.6708989999997,Breakfast & Brunch,Hollywood Sign,2,3.5,1009
+143,US,4347.928882,French,Golden Gate Bridge,3,4.5,2499
+145,US,4298.037915,Desserts,Golden Gate Bridge,1,4.0,2093
+146,US,4045.271224,Burmese,Golden Gate Bridge,2,4.0,1894
+147,US,4234.744058,American (Traditional),Golden Gate Bridge,4,4.0,1725
+149,US,4051.4803890000003,Pizza,Golden Gate Bridge,2,4.5,1130
+153,US,4208.866348,Dim Sum,Golden Gate Bridge,1,4.0,1389
+154,US,1987.9814350000001,American (New),Golden Gate Bridge,3,3.5,593
+155,US,4233.735758,Japanese,Golden Gate Bridge,2,4.0,930
+156,US,3951.0666810000002,American (New),Golden Gate Bridge,2,4.0,709
+157,US,4054.54225,German,Golden Gate Bridge,2,4.5,373
+159,US,1452.937545,Coffee & Tea,Golden Gate Bridge,2,4.0,226
+161,FR,839.3941117999999,Kosher,Notre Dame Cathedral,1,4.5,1384
+162,FR,817.9877253999999,Tapas Bars,Notre Dame Cathedral,2,4.5,504
+163,FR,494.10240369999997,Bistros,Notre Dame Cathedral,3,4.5,293
+165,FR,1325.567711,French,Notre Dame Cathedral,2,4.5,570
+167,FR,609.9079981000001,Bistros,Notre Dame Cathedral,2,4.5,195
+168,FR,797.8428035000001,Brasseries,Notre Dame Cathedral,3,4.5,206
+169,FR,810.8988322,Creperies,Notre Dame Cathedral,1,4.5,137
+170,FR,608.0233923,Lebanese,Notre Dame Cathedral,1,4.5,136
+171,FR,823.2975945000001,Brasseries,Notre Dame Cathedral,3,4.0,371
+172,FR,378.60229689999994,Bistros,Notre Dame Cathedral,3,4.5,114
+173,FR,1045.888455,Bistros,Notre Dame Cathedral,2,4.5,252
+174,FR,460.8076921,Cafes,Notre Dame Cathedral,2,4.0,168
+175,FR,193.542885,French,Notre Dame Cathedral,3,4.5,107
+176,FR,679.3302615,Modern European,Notre Dame Cathedral,4,4.0,182
+177,FR,376.74431749999997,Basque,Notre Dame Cathedral,2,4.0,185
+178,FR,779.8060042000001,French,Notre Dame Cathedral,3,4.5,148
+179,FR,903.0438204,Fondue,Notre Dame Cathedral,2,4.5,200
+181,JP,2257.784469,Sushi Bars,Tokyo Tower,2,4.5,297
+182,JP,112.7446791,Kaiseki,Tokyo Tower,3,5.0,35
+183,JP,1461.23378,Sushi Bars,Tokyo Tower,4,4.5,74
+184,JP,2251.6449989999996,Sushi Bars,Tokyo Tower,2,4.5,190
+185,JP,2397.842157,Ramen,Tokyo Tower,1,4.5,133
+186,JP,1803.809779,Sushi Bars,Tokyo Tower,4,4.5,74
+187,JP,1428.278315,American (Traditional),Tokyo Tower,2,4.0,88
+188,JP,1161.493658,Izakaya,Tokyo Tower,2,4.5,56
+189,JP,1411.521234,Tonkatsu,Tokyo Tower,2,4.5,33
+190,JP,2020.757362,Sushi Bars,Tokyo Tower,4,5.0,42
+191,JP,1405.332347,Ramen,Tokyo Tower,1,4.5,41
+192,JP,3129.676399,Ramen,Tokyo Tower,1,4.5,168
+193,JP,3051.342816,Vegan,Tokyo Tower,1,4.5,108
+194,JP,1333.321324,Steakhouses,Tokyo Tower,2,4.5,28
+195,JP,2005.9438710000002,Steakhouses,Tokyo Tower,4,4.5,64
+196,JP,948.0609029999999,Ramen,Tokyo Tower,1,4.5,28
+197,JP,1129.297069,Pizza,Tokyo Tower,2,4.0,45
+198,JP,713.4702119,Ramen,Tokyo Tower,1,4.5,26
+199,JP,2617.5968559999997,Cafes,Tokyo Tower,1,5.0,56
+200,GB,1136.848259,Indian,London Eye,2,4.5,1147
+204,GB,578.0713268,Wine Bars,London Eye,2,4.5,371
+205,GB,1357.08805,Coffee & Tea,London Eye,1,4.5,306
+206,GB,1208.447259,British,London Eye,3,4.5,286
+210,GB,1326.655293,Coffee & Tea,London Eye,2,4.5,272
+211,GB,1371.322058,Indian,London Eye,2,4.0,410
+212,GB,1560.709116,Cafes,London Eye,3,4.0,427
+213,GB,1580.0654140000001,Dim Sum,London Eye,3,4.0,441
+214,GB,1453.390835,Burgers,London Eye,2,4.5,238
+215,GB,1630.940312,Steakhouses,London Eye,2,4.5,287
+216,GB,1763.0308670000002,Indian,London Eye,2,4.5,287
+217,GB,892.5204081,Steakhouses,London Eye,2,4.5,112
+218,GB,1487.788147,Pubs,London Eye,2,4.0,294
+219,GB,1324.4702619999998,Pizza,London Eye,2,4.5,178
+220,IT,791.7082052000001,Pizza,St. Peter's Basilica,2,4.5,385
+222,IT,341.39284280000004,Pizza,St. Peter's Basilica,1,5.0,133
+223,IT,1432.924561,Ice Cream & Frozen Yogurt,St. Peter's Basilica,1,4.5,387
+225,IT,1397.949106,Italian,St. Peter's Basilica,2,4.0,440
+226,IT,436.5264882,Pasta Shops,St. Peter's Basilica,1,4.5,108
+227,IT,727.6371042999999,Roman,St. Peter's Basilica,2,4.0,143
+228,IT,690.4439445,Wine Bars,St. Peter's Basilica,1,4.5,80
+229,IT,1966.8086399999997,Coffee & Tea,St. Peter's Basilica,1,4.5,234
+230,IT,523.2030376,Sandwiches,St. Peter's Basilica,1,4.5,85
+232,IT,1695.831702,Pizza,St. Peter's Basilica,2,4.5,284
+233,IT,1789.344554,Italian,St. Peter's Basilica,2,4.5,238
+234,IT,1617.955838,Roman,St. Peter's Basilica,2,4.0,319
+235,IT,1814.4480620000002,Bars,St. Peter's Basilica,1,4.0,287
+236,IT,1448.0873119999999,Sandwiches,St. Peter's Basilica,1,4.5,120
+237,IT,1521.9388470000001,Italian,St. Peter's Basilica,2,4.5,213
+238,IT,1259.971775,Italian,St. Peter's Basilica,2,4.5,78
+239,IT,2307.774582,Wine Bars,St. Peter's Basilica,2,5.0,89
+241,ES,1679.8088739999998,Tapas Bars,Sagrada Familia,2,4.0,879
+242,ES,1269.949703,Tapas Bars,Sagrada Familia,2,4.5,316
+243,ES,122.7649604,Seafood,Sagrada Familia,2,4.5,146
+245,ES,1761.640934,Tapas Bars,Sagrada Familia,2,4.0,745
+247,ES,190.7297356,Cafeteria,Sagrada Familia,2,5.0,44
+248,ES,2012.26625,Breakfast & Brunch,Sagrada Familia,2,4.5,601
+249,ES,1673.250662,Tapas/Small Plates,Sagrada Familia,2,4.5,125
+250,ES,2736.23398,Argentine,Sagrada Familia,1,4.5,419
+252,ES,2128.395298,Vegetarian,Sagrada Familia,2,4.5,315
+253,ES,1415.498253,Burgers,Sagrada Familia,1,4.0,203
+254,ES,2826.490159,Spanish,Sagrada Familia,2,4.5,415
+255,ES,169.8957064,Mexican,Sagrada Familia,2,4.0,93
+256,ES,1469.749511,Tapas Bars,Sagrada Familia,1,5.0,95
+257,ES,2211.184465,Tapas Bars,Sagrada Familia,2,4.5,277
+258,ES,693.2132147000001,Breakfast & Brunch,Sagrada Familia,2,4.0,117
+259,ES,1060.2951560000001,Pizza,Sagrada Familia,2,4.5,75
+260,US,205.7818645,American (Traditional),Little Mermaid,2,4.0,519
+261,US,222.2503426,Dinner Theater,Little Mermaid,2,4.0,533
+262,US,63.02493204,American (Traditional),Little Mermaid,3,3.5,426
+263,US,1816.011841,Steakhouses,Little Mermaid,3,4.0,503
+264,US,1647.420571,Italian,Little Mermaid,2,4.0,600
+265,US,1147.406267,Seafood,Little Mermaid,3,4.0,303
+266,US,1458.543517,Bakeries,Little Mermaid,1,4.0,303
+267,US,1709.8739920000003,British,Little Mermaid,2,4.0,385
+268,US,2075.009942,Mexican,Little Mermaid,2,4.5,223
+269,US,378.1825945,Italian,Little Mermaid,2,3.5,334
+270,US,1802.827257,German,Little Mermaid,3,4.0,488
+271,US,1689.195561,British,Little Mermaid,2,4.5,169
+272,US,1499.04635,French,Little Mermaid,3,3.5,470
+273,US,1076.1791,Steakhouses,Little Mermaid,4,4.0,215
+274,US,2709.177987,Steakhouses,Little Mermaid,4,4.5,227
+275,US,1576.333819,American (Traditional),Little Mermaid,2,4.0,209
+276,US,1268.037943,American (New),Little Mermaid,3,3.5,334
+277,US,1500.356048,Japanese,Little Mermaid,3,4.0,330
+278,US,2798.590403,Asian Fusion,Little Mermaid,2,4.0,633
+279,US,1593.242548,Seafood,Little Mermaid,3,4.0,231
+281,AU,1032.01411,Chinese,Sydney Opera House,3,4.0,223
+283,AU,672.6337254,Coffee & Tea,Sydney Opera House,2,4.5,78
+284,AU,719.3904081000001,Japanese,Sydney Opera House,3,4.0,125
+285,AU,1135.2581109999999,Steakhouses,Sydney Opera House,4,4.0,115
+286,AU,1694.0942670000002,Bars,Sydney Opera House,3,4.5,108
+287,AU,498.16806039999994,Modern Australian,Sydney Opera House,4,4.0,83
+288,AU,831.4798565000001,Cocktail Bars,Sydney Opera House,2,4.5,46
+289,AU,714.1721996,Cafes,Sydney Opera House,3,4.0,91
+290,AU,698.5863914,Bakeries,Sydney Opera House,1,4.5,53
+291,AU,2556.726101,Malaysian,Sydney Opera House,2,4.0,248
+292,AU,16.21903441,Australian,Sydney Opera House,4,4.0,37
+293,AU,2443.348484,Dim Sum,Sydney Opera House,2,4.0,247
+294,AU,1489.485084,Restaurants,Sydney Opera House,1,4.0,103
+295,AU,1762.9558370000002,Shopping Centers,Sydney Opera House,3,4.5,75
+297,AU,1595.1717939999999,Ramen,Sydney Opera House,2,4.0,123
+298,AU,1148.126588,Bars,Sydney Opera House,2,4.0,97
+299,AU,680.9426791,Modern Australian,Sydney Opera House,2,4.0,78
+302,FR,999.7957726,French,Arc de Triomphe,2,4.5,304
+303,FR,288.6659754,French,Arc de Triomphe,3,4.5,166
+304,FR,859.7228428,Steakhouses,Arc de Triomphe,3,4.0,385
+305,FR,674.947437,French,Arc de Triomphe,4,4.5,105
+306,FR,206.1574458,French,Arc de Triomphe,4,4.0,119
+307,FR,652.2060604,Vietnamese,Arc de Triomphe,2,4.0,173
+308,FR,1806.807891,French,Arc de Triomphe,3,4.0,432
+309,FR,1210.812261,Creperies,Arc de Triomphe,2,4.5,173
+310,FR,544.095387,French,Arc de Triomphe,4,4.5,81
+311,FR,868.8041812000001,French,Arc de Triomphe,3,4.0,237
+312,FR,323.0881219,French,Arc de Triomphe,3,4.5,56
+314,FR,1100.880635,French,Arc de Triomphe,2,3.5,364
+315,FR,1743.5674809999998,French,Arc de Triomphe,4,4.0,353
+316,FR,1454.406081,French,Arc de Triomphe,4,4.5,134
+317,FR,1127.484368,French,Arc de Triomphe,3,4.0,122
+318,FR,390.48042200000003,French,Arc de Triomphe,4,4.0,85
+319,FR,173.3010732,Lounges,Arc de Triomphe,2,3.5,169
+321,DE,759.244109,Syrian,Berlin Wall,1,4.5,149
+322,DE,1067.6499509999999,Ramen,Berlin Wall,2,4.0,259
+323,DE,966.2910327,Middle Eastern,Berlin Wall,1,4.0,250
+324,DE,1508.100829,Vietnamese,Berlin Wall,2,4.0,595
+325,DE,1084.6297650000001,Indonesian,Berlin Wall,2,4.0,264
+326,DE,540.8687712000001,Italian,Berlin Wall,2,4.0,227
+327,DE,911.9425654999999,Sushi Bars,Berlin Wall,2,4.0,260
+328,DE,1042.0999689999999,Breakfast & Brunch,Berlin Wall,2,4.0,205
+329,DE,1041.538078,Burgers,Berlin Wall,2,4.0,275
+331,DE,1799.402018,Mexican,Berlin Wall,1,4.0,495
+332,DE,827.8476252,Breakfast & Brunch,Berlin Wall,2,4.0,167
+333,DE,1033.458874,German,Berlin Wall,2,4.0,201
+334,DE,847.6707007000001,Vegan,Berlin Wall,3,4.0,166
+335,DE,733.4576415,Chinese,Berlin Wall,2,4.0,188
+336,DE,481.27345499999996,Bars,Berlin Wall,3,4.0,137
+337,DE,620.5322172,Modern European,Berlin Wall,4,4.5,86
+338,DE,1670.718543,Burgers,Berlin Wall,2,4.0,647
+339,DE,2567.235499,Chocolatiers & Shops,Berlin Wall,3,4.5,292
+341,GB,4374.425204,Pubs,Stonehenge,1,4.0,1
+343,AU,280.46495289999996,Restaurants,Uluru - Ayers Rock,3,3.0,2
+346,GB,1115.9668,Coffee & Tea,Tower Bridge,2,4.5,276
+348,GB,1238.759026,Modern European,Tower Bridge,3,4.0,520
+349,GB,1537.3306029999999,Indian,Tower Bridge,2,4.0,633
+350,GB,2107.134916,Indian,Tower Bridge,2,4.5,323
+352,GB,719.7273901000001,Spanish,Tower Bridge,2,4.5,71
+353,GB,1199.515643,Coffee & Tea,Tower Bridge,2,4.5,73
+355,GB,1515.956664,British,Tower Bridge,2,4.0,193
+356,GB,1729.553744,Steakhouses,Tower Bridge,3,4.5,162
+357,GB,1006.915697,Italian,Tower Bridge,2,4.5,70
+358,GB,1684.139904,British,Tower Bridge,2,4.0,220
+359,GB,349.5231488,Spanish,Tower Bridge,2,4.0,45
+360,GB,2452.180325,British,Tower Bridge,3,4.0,266
+361,GB,1221.918062,Indian,Tower Bridge,2,4.5,81
+363,GB,695.9792627999999,Pubs,Tower Bridge,2,4.0,95
+364,US,701.9895924,American (New),Capitol Hill,3,4.5,1622
+365,US,575.1944986000001,Modern European,Capitol Hill,2,4.5,1119
+366,US,537.9851677,Breakfast & Brunch,Capitol Hill,2,4.0,1722
+368,US,586.847313,Greek,Capitol Hill,2,4.0,1227
+369,US,175.96562519999998,American (New),Capitol Hill,2,4.5,571
+370,US,200.85433759999998,Burgers,Capitol Hill,2,3.5,1752
+371,US,315.23897400000004,Italian,Capitol Hill,3,4.0,619
+372,US,1821.840292,Ramen,Capitol Hill,2,4.0,1901
+373,US,155.6800666,Japanese,Capitol Hill,2,4.0,482
+374,US,2134.621854,Indian,Capitol Hill,3,4.5,2584
+375,US,276.5570223,Coffee & Tea,Capitol Hill,1,4.5,428
+376,US,2525.757072,Greek,Capitol Hill,3,4.0,3869
+377,US,568.9101012,Pizza,Capitol Hill,2,4.0,826
+378,US,338.86636150000004,Mexican,Capitol Hill,1,4.0,516
+379,US,273.25331939999995,French,Capitol Hill,2,4.0,549
+380,US,696.4014922,Cafes,Capitol Hill,4,4.5,261
+381,US,1770.725261,Pizza,Capitol Hill,1,4.5,616
+382,US,948.7055169,French,Capitol Hill,3,4.0,557
+383,US,273.367084,American (New),Capitol Hill,2,4.0,301
+384,US,1153.155105,American (New),Willis Tower (Sears Tower),3,4.5,7007
+385,US,1166.330503,Bars,Willis Tower (Sears Tower),2,4.5,4873
+386,US,1262.143274,Breakfast & Brunch,Willis Tower (Sears Tower),2,4.5,4493
+388,US,1645.14367,Tapas/Small Plates,Willis Tower (Sears Tower),2,4.0,5757
+389,US,1160.312433,Steakhouses,Willis Tower (Sears Tower),3,4.5,1855
+390,US,1217.419854,Diners,Willis Tower (Sears Tower),2,4.0,3661
+391,US,863.8302902999999,French,Willis Tower (Sears Tower),3,4.5,1905
+392,US,1286.9318759999999,Pizza,Willis Tower (Sears Tower),2,4.0,4377
+393,US,972.7546214,Gastropubs,Willis Tower (Sears Tower),3,4.0,2401
+394,US,1379.72217,Mexican,Willis Tower (Sears Tower),2,4.0,3309
+396,US,1663.5847390000001,Hot Dogs,Willis Tower (Sears Tower),1,4.0,4118
+397,US,1736.6077719999998,Italian,Willis Tower (Sears Tower),2,4.0,3908
+398,US,1686.876614,Seafood,Willis Tower (Sears Tower),3,4.5,1988
+399,US,1370.28924,American (New),Willis Tower (Sears Tower),3,4.0,2862
+400,US,849.6504447000001,Coffee & Tea,Willis Tower (Sears Tower),1,4.5,1388
+401,US,1428.980538,Italian,Willis Tower (Sears Tower),3,4.0,2543
+402,US,799.1539517000001,Coffee & Tea,Willis Tower (Sears Tower),1,4.5,963
+405,US,483.10026560000006,Pizza,Brooklyn Bridge,2,4.5,1586
+406,US,495.78107539999996,Pizza,Brooklyn Bridge,2,3.5,4213
+407,US,1959.557895,Delis,Brooklyn Bridge,2,4.0,8683
+408,US,1340.920553,Donuts,Brooklyn Bridge,2,4.5,2965
+410,US,957.4392784,Shanghainese,Brooklyn Bridge,2,4.0,4981
+411,US,2819.7467,Ramen,Brooklyn Bridge,2,4.0,9234
+412,US,372.8990019,American (New),Brooklyn Bridge,4,4.0,882
+413,US,1720.828946,Pizza,Brooklyn Bridge,2,4.0,5363
+414,US,1996.4014730000001,Bakeries,Brooklyn Bridge,2,4.0,4028
+415,US,436.8147427,Seafood,Brooklyn Bridge,2,4.5,418
+416,US,1881.366042,Italian,Brooklyn Bridge,1,4.5,1642
+417,US,1207.476949,Burgers,Brooklyn Bridge,1,4.5,1315
+418,US,1160.499108,Sandwiches,Brooklyn Bridge,1,4.5,988
+419,US,1894.232514,Cuban,Brooklyn Bridge,2,4.0,2983
+420,US,1547.0348060000001,Cajun/Creole,Brooklyn Bridge,2,4.5,1574
+421,US,1064.1054550000001,Chinese,Brooklyn Bridge,1,4.0,1350
+422,US,1266.8926470000001,Chinese,Brooklyn Bridge,1,4.5,925
+423,US,1802.4108210000002,American (New),Brooklyn Bridge,3,4.0,2775
+425,IT,150.2094529,Sandwiches,Trevi Fountain,2,4.5,356
+428,IT,1104.282555,Ice Cream & Frozen Yogurt,Trevi Fountain,1,4.5,387
+429,IT,247.1257732,Italian,Trevi Fountain,2,4.0,399
+430,IT,514.919446,Coffee & Tea,Trevi Fountain,1,4.5,234
+431,IT,134.28902309999998,Wine Bars,Trevi Fountain,2,5.0,89
+432,IT,519.8080236999999,Gluten-Free,Trevi Fountain,3,4.5,178
+433,IT,785.1738521000001,Wine Bars,Trevi Fountain,2,4.5,291
+434,IT,1079.473295,Italian,Trevi Fountain,2,4.0,440
+435,IT,726.6442298999999,Bars,Trevi Fountain,1,4.0,287
+437,IT,1453.817205,Pizza,Trevi Fountain,1,4.5,439
+439,IT,366.417596,Italian,Trevi Fountain,2,4.0,181
+440,IT,1101.500454,Roman,Trevi Fountain,2,4.0,319
+441,IT,1192.020115,Italian,Trevi Fountain,3,4.5,217
+442,IT,358.8246213,Italian,Trevi Fountain,3,4.5,111
+443,IT,1139.555388,Italian,Trevi Fountain,2,4.0,316
+444,IT,188.68033549999998,Italian,St. Mark's Basilica & Campanile,1,4.5,764
+445,IT,91.35695349,Napoletana,St. Mark's Basilica & Campanile,2,4.0,351
+447,IT,497.0377136,Italian,St. Mark's Basilica & Campanile,2,4.5,163
+449,IT,537.3105837999999,Pizza,St. Mark's Basilica & Campanile,2,4.5,149
+450,IT,265.7428654,Seafood,St. Mark's Basilica & Campanile,3,4.5,170
+452,IT,627.3875631,Pizza,St. Mark's Basilica & Campanile,1,4.5,129
+453,IT,157.55085830000002,Cafes,St. Mark's Basilica & Campanile,3,4.0,172
+454,IT,199.8032958,Seafood,St. Mark's Basilica & Campanile,2,4.0,118
+455,IT,1117.735539,Italian,St. Mark's Basilica & Campanile,2,4.5,172
+456,IT,370.0744042,Italian,St. Mark's Basilica & Campanile,2,4.0,119
+457,IT,270.83306969999995,Italian,St. Mark's Basilica & Campanile,3,4.5,67
+458,IT,448.59020580000004,Venetian,St. Mark's Basilica & Campanile,3,4.5,62
+459,IT,73.82653743,Pizza,St. Mark's Basilica & Campanile,3,4.5,44
+460,IT,635.9762567,Wine Bars,St. Mark's Basilica & Campanile,2,4.5,52
+462,IT,525.9196853,Pizza,St. Mark's Basilica & Campanile,3,4.0,76
+463,IT,428.59533089999996,Italian,St. Mark's Basilica & Campanile,4,4.5,36
+464,US,590.1057499,Food Stands,Times Square,1,4.5,8717
+465,US,445.6419053999999,Coffee & Tea,Times Square,1,4.5,3186
+466,US,409.98002060000005,French,Times Square,4,4.5,2093
+467,US,270.47420310000007,Steakhouses,Times Square,4,4.5,2375
+468,US,640.5128814,Ramen,Times Square,2,4.0,4741
+469,US,146.0423365,American (Traditional),Times Square,2,4.0,3363
+470,US,530.0171578,Ramen,Times Square,2,4.0,3056
+472,US,207.4625393,Italian,Times Square,2,4.0,2808
+473,US,891.3790635,Bagels,Times Square,1,4.5,2071
+476,US,651.9561872,Thai,Times Square,2,4.0,2128
+477,US,345.4215171,Burgers,Times Square,2,4.0,2813
+478,US,269.21040810000005,Italian,Times Square,2,4.0,1619
+479,US,176.29842390000002,Italian,Times Square,2,4.0,1712
+480,US,921.6416277000001,Steakhouses,Times Square,4,4.0,2060
+481,US,607.7826918,American (New),Times Square,2,4.0,1685
+482,US,973.6399424000001,Tapas Bars,Times Square,2,4.0,1671
+483,US,509.23997310000004,Desserts,Times Square,1,4.0,1537
+484,US,752.0805419,American (Traditional),The White House,2,4.0,10453
+485,US,276.5647325,Bars,The White House,2,4.0,6297
+486,US,1138.423885,Greek,The White House,3,4.0,3869
+487,US,1347.837371,Indian,The White House,3,4.5,2584
+489,US,845.6442912999998,Brazilian,The White House,3,4.0,1554
+490,US,1581.283333,Brasseries,The White House,3,4.0,2349
+491,US,360.3857897,Seafood,The White House,3,4.5,884
+492,US,1544.274976,American (New),The White House,3,4.0,1970
+493,US,385.83187389999995,Seafood,The White House,2,3.5,1856
+494,US,892.5218937000001,Pizza,The White House,1,4.5,780
+495,US,1243.716891,Pizza,The White House,2,4.0,2648
+496,US,2166.438358,Bakeries,The White House,2,4.5,3634
+497,US,1469.654437,Ramen,The White House,2,4.0,2312
+499,US,551.6557756,Mexican,The White House,1,4.0,1269
+500,US,604.7807342,Pizza,The White House,1,4.5,426
+501,US,1197.591331,American (Traditional),The White House,2,4.0,1366
+502,US,1120.857548,American (Traditional),The White House,2,4.0,1489
+503,US,1057.288161,Sandwiches,The White House,2,4.5,667
+504,FR,714.5409372,French,Louvre Museum,2,4.5,570
+506,FR,1605.935588,Kosher,Louvre Museum,1,4.5,1384
+507,FR,536.6374169,Japanese,Louvre Museum,2,4.5,246
+508,FR,957.3526697000001,Tapas Bars,Louvre Museum,2,4.5,504
+509,FR,287.70133280000005,Breakfast & Brunch,Louvre Museum,3,4.5,226
+511,FR,831.7910218999999,French,Louvre Museum,4,4.0,336
+513,FR,826.2588081,Brasseries,Louvre Museum,3,4.5,206
+514,FR,734.230884,Bistros,Louvre Museum,2,4.5,195
+515,FR,744.2704342000001,French,Louvre Museum,3,4.0,313
+516,FR,822.6503713999999,Creperies,Louvre Museum,2,4.5,162
+518,FR,213.8788356,Lounges,Louvre Museum,3,4.0,291
+519,FR,638.7771172,Modern European,Louvre Museum,4,4.5,118
+521,FR,677.0875037000001,Modern European,Louvre Museum,4,4.0,182
+522,FR,865.5747947999998,Lebanese,Louvre Museum,1,4.5,136
+523,FR,1320.7841529999998,Bistros,Louvre Museum,3,4.5,293
+525,BE,398.75181380000004,Breakfast & Brunch,"Manneken Pis, Brussels",2,4.0,473
+526,BE,409.3681155,Fish & Chips,"Manneken Pis, Brussels",2,4.5,369
+527,BE,609.800941,Seafood,"Manneken Pis, Brussels",2,4.5,258
+528,BE,475.743221,Beer Bar,"Manneken Pis, Brussels",2,4.0,481
+529,BE,212.0744066,Beer Bar,"Manneken Pis, Brussels",2,4.5,189
+530,BE,485.0167377,Belgian,"Manneken Pis, Brussels",2,4.0,344
+531,BE,99.38920596,Belgian,"Manneken Pis, Brussels",2,4.0,241
+532,BE,175.5675429,Bagels,"Manneken Pis, Brussels",2,4.0,141
+533,BE,22.74583542,Beer Bar,"Manneken Pis, Brussels",2,4.0,98
+534,BE,413.8582537,Italian,"Manneken Pis, Brussels",2,4.5,106
+535,BE,349.12624950000003,Belgian,"Manneken Pis, Brussels",2,4.0,177
+536,BE,283.0709845,Italian,"Manneken Pis, Brussels",2,4.5,48
+537,BE,587.4188412999999,Bakeries,"Manneken Pis, Brussels",2,4.5,99
+538,BE,170.6018369,Wine Bars,"Manneken Pis, Brussels",2,4.0,124
+539,BE,542.2397365,Modern European,"Manneken Pis, Brussels",2,4.0,134
+540,BE,1488.758149,Italian,"Manneken Pis, Brussels",2,4.5,104
+541,BE,857.9386557,Cafes,"Manneken Pis, Brussels",2,4.0,181
+542,BE,1271.494273,French,"Manneken Pis, Brussels",4,4.5,78
+544,GB,1608.341732,Indian,Buckingham Palace,2,4.5,1147
+549,GB,1056.396879,Coffee & Tea,Buckingham Palace,1,4.5,306
+550,GB,1301.54615,Indian,Buckingham Palace,2,4.5,287
+552,GB,697.9516896,Cafes,Buckingham Palace,3,4.0,427
+553,GB,1267.50764,French,Buckingham Palace,3,4.0,529
+554,GB,1254.3298029999999,British,Buckingham Palace,4,4.5,252
+555,GB,1475.091209,Wine Bars,Buckingham Palace,2,4.5,371
+558,GB,1220.1473369999999,Steakhouses,Buckingham Palace,2,4.5,287
+559,GB,677.552507,American (Traditional),Buckingham Palace,2,4.5,189
+560,GB,1450.11768,Dim Sum,Buckingham Palace,3,4.0,441
+561,GB,1163.6579769999998,Mediterranean,Buckingham Palace,3,4.5,232
+562,GB,1297.4011169999999,British,Buckingham Palace,1,4.0,327
+566,FR,675.8179422000001,French,Versailles,4,5.0,23
+567,FR,811.1542996000001,French,Versailles,2,4.0,68
+568,FR,575.6821917000001,French,Versailles,3,4.0,34
+569,FR,161.0946623,Coffee & Tea,Versailles,3,3.5,54
+570,FR,459.84252760000004,French,Versailles,2,5.0,12
+571,FR,479.0209489,Creperies,Versailles,2,4.0,29
+572,FR,410.4470194,French,Versailles,3,4.5,19
+573,FR,1240.695307,Moroccan,Versailles,2,4.0,30
+574,FR,301.9456477,Oriental,Versailles,3,4.5,14
+575,FR,577.7304190000001,Creperies,Versailles,1,4.0,26
+576,FR,570.7638383,French,Versailles,3,3.5,34
+577,FR,685.3381747999999,French,Versailles,2,3.5,36
+578,FR,592.9252184,Pizza,Versailles,2,4.5,21
+579,FR,582.1578369,French,Versailles,3,3.5,32
+580,FR,457.7575428,American (Traditional),Versailles,2,3.5,46
+581,FR,760.6125794,Wine Bars,Versailles,2,4.5,12
+582,FR,950.9517783,Bistros,Versailles,2,3.5,31
+583,FR,458.6248841,Bars,Versailles,2,3.5,33
+586,DE,115.3597626,Cafes,Neuschwanstein Castle,2,4.0,23
+588,DE,2273.009416,Bavarian,Neuschwanstein Castle,2,4.5,23
+589,DE,891.8679948999999,German,Neuschwanstein Castle,3,3.5,22
+590,DE,2176.678539,German,Neuschwanstein Castle,2,4.0,25
+591,DE,1070.993749,German,Neuschwanstein Castle,2,3.5,10
+592,DE,693.3473772000001,German,Neuschwanstein Castle,2,3.0,8
+595,DE,2694.745425,German,Neuschwanstein Castle,4,5.0,2
+596,DE,2412.263166,Bavarian,Neuschwanstein Castle,2,3.5,11
+599,DE,2443.545413,Hotels & Travel,Neuschwanstein Castle,2,4.5,4
+603,DE,2345.561962,Pizza,Neuschwanstein Castle,2,4.0,6
+604,CH,1571.073136,Restaurants,Matterhorn,2,5.0,2
+605,IT,4917.851368,Italian,Matterhorn,2,4.0,3
+607,IT,4871.820757,Italian,Matterhorn,2,4.5,2
+608,CH,3809.920065,Swiss Food,Matterhorn,3,3.0,4
+611,IT,355.703714,Italian,Pompeii,2,5.0,92
+613,IT,691.2468693,Italian,Pompeii,3,5.0,11
+615,IT,387.8059232,Ice Cream & Frozen Yogurt,Pompeii,2,4.5,10
+617,IT,136.4904322,Italian,Pompeii,4,5.0,3
+618,IT,110.58729479999998,Cucina campana,Pompeii,3,5.0,4
+620,IT,379.7754774,Italian,Pompeii,3,4.0,8
+621,IT,395.6940353,Italian,Pompeii,2,4.5,4
+622,IT,551.3109665,Sushi Bars,Pompeii,3,3.5,9
+623,IT,183.5400741,Cocktail Bars,Pompeii,1,4.5,3
+624,IT,247.7218752,Pizza,Pompeii,2,4.0,8
+626,IT,1630.664522,Pizza,Pompeii,1,5.0,2
+627,IT,739.291372,Pizza,Pompeii,1,3.5,3
+628,IT,357.9567517,Lounges,Pompeii,3,3.0,7
+629,IT,1207.824764,Napoletana,Pompeii,2,3.0,5
+631,IT,527.9039415,Sandwiches,Florence Cathedral,1,4.5,856
+632,IT,443.37517069999996,Italian,Florence Cathedral,2,4.5,528
+633,IT,501.2622538,Tuscan,Florence Cathedral,3,4.5,427
+634,IT,515.667062,Italian,Florence Cathedral,2,4.5,288
+635,IT,396.62308060000004,Italian,Florence Cathedral,2,4.0,585
+636,IT,642.2868923,Ice Cream & Frozen Yogurt,Florence Cathedral,1,4.5,264
+637,IT,563.5566285,Tuscan,Florence Cathedral,2,4.5,181
+638,IT,485.99768509999996,Pizza,Florence Cathedral,1,4.5,147
+639,IT,404.5288077,Tuscan,Florence Cathedral,2,4.5,168
+640,IT,515.6172024,Museums,Florence Cathedral,2,4.5,194
+641,IT,714.3180055,Tuscan,Florence Cathedral,3,4.5,163
+642,IT,203.7464501,Italian,Florence Cathedral,3,4.5,118
+643,IT,284.5808816,Sandwiches,Florence Cathedral,1,4.5,142
+644,IT,365.0746984,Tuscan,Florence Cathedral,2,4.5,145
+646,IT,550.9043629,Tuscan,Florence Cathedral,4,4.5,158
+647,IT,658.2794907000001,Diners,Florence Cathedral,2,4.5,125
+649,IT,939.9302877,Italian,Florence Cathedral,1,4.5,343
+650,IT,638.8489193,Tuscan,Florence Cathedral,3,4.5,145
+652,GB,552.3084987999999,Wine Bars,Edinburgh Castle,2,4.5,282
+653,GB,368.269064,Fast Food,Edinburgh Castle,1,4.5,247
+654,GB,488.9239928,Modern European,Edinburgh Castle,2,4.0,189
+655,GB,886.8632545,Delis,Edinburgh Castle,1,4.5,187
+656,GB,324.01759849999996,Juice Bars & Smoothies,Edinburgh Castle,1,4.5,142
+657,GB,640.3898763999999,British,Edinburgh Castle,2,4.0,174
+658,GB,471.04012639999996,Breweries,Edinburgh Castle,2,4.5,118
+660,GB,736.1253409,Fast Food,Edinburgh Castle,1,4.5,134
+662,GB,669.8111418,British,Edinburgh Castle,2,4.0,168
+663,GB,441.07628550000004,Seafood,Edinburgh Castle,2,4.0,108
+664,GB,358.82374480000004,Seafood,Edinburgh Castle,2,4.0,95
+665,GB,722.8503967,Cocktail Bars,Edinburgh Castle,2,4.5,76
+666,GB,846.2477707999999,Coffee & Tea,Edinburgh Castle,2,4.5,102
+667,GB,673.1923114,Ice Cream & Frozen Yogurt,Edinburgh Castle,1,5.0,46
+668,GB,626.8376466,Indian,Edinburgh Castle,2,4.5,85
+670,GB,655.0203279,Chicken Wings,Edinburgh Castle,1,4.0,90
+673,BR,1640.874834,Gastropubs,"Christ the Redeemer - Rio De Janerio, Brazil",3,4.5,33
+674,BR,2231.134086,Burgers,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.5,64
+675,BR,3632.8735509999997,French,"Christ the Redeemer - Rio De Janerio, Brazil",4,4.5,57
+676,BR,3926.591911,Brazilian,"Christ the Redeemer - Rio De Janerio, Brazil",3,4.5,103
+677,BR,1731.610602,Pizza,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.0,29
+678,BR,3444.2816090000006,Brazilian,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.0,68
+679,BR,1123.489582,Pizza,"Christ the Redeemer - Rio De Janerio, Brazil",3,4.0,27
+680,BR,3202.850693,Bars,"Christ the Redeemer - Rio De Janerio, Brazil",1,4.5,50
+681,BR,1536.324576,Bakeries,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.5,14
+682,BR,2182.519114,Gastropubs,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.5,22
+683,BR,1810.513818,Vegetarian,"Christ the Redeemer - Rio De Janerio, Brazil",2,5.0,14
+684,BR,1625.8081300000001,Peruvian,"Christ the Redeemer - Rio De Janerio, Brazil",3,4.5,22
+685,BR,1137.9074369999998,Latin American,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.0,21
+686,BR,2534.566034,Gastropubs,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.5,35
+687,BR,2440.560531,Bakeries,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.0,42
+688,BR,1130.858724,Restaurants,"Christ the Redeemer - Rio De Janerio, Brazil",4,5.0,10
+689,BR,1500.6392449999998,Brazilian,"Christ the Redeemer - Rio De Janerio, Brazil",3,4.0,22
+690,BR,1482.398148,Brazilian,"Christ the Redeemer - Rio De Janerio, Brazil",2,4.0,24
+691,CA,602.94735,Thai,CN Tower,2,4.5,1672
+692,CA,548.9103963,Mediterranean,CN Tower,3,4.5,597
+693,CA,670.7297221,Thai,CN Tower,2,4.0,1302
+694,CA,1058.726394,Sandwiches,CN Tower,1,4.5,981
+695,CA,934.9675222999999,Steakhouses,CN Tower,4,4.5,453
+697,CA,1161.888482,Canadian (New),CN Tower,3,4.5,558
+698,CA,627.1841119,Canadian (New),CN Tower,4,4.0,562
+699,CA,793.4401397,Japanese,CN Tower,3,4.0,510
+700,CA,674.6456599999999,Sandwiches,CN Tower,2,4.5,319
+701,CA,1697.2565339999999,Mexican,CN Tower,1,4.5,994
+702,CA,1137.492189,German,CN Tower,2,4.0,641
+703,CA,22.713887600000003,Canadian (New),CN Tower,4,3.5,649
+704,CA,798.58414,Japanese,CN Tower,3,4.0,396
+705,CA,1086.6443359999998,Asian Fusion,CN Tower,3,4.0,508
+706,CA,1100.2348359999999,Italian,CN Tower,2,4.0,728
+707,CA,975.5393521,Bars,CN Tower,4,4.5,181
+708,CA,1133.9455710000002,Canadian (New),CN Tower,2,4.0,564
+709,CA,623.4823206,Bars,CN Tower,2,4.0,277
+710,CA,2101.2593829999996,Japanese,CN Tower,2,4.0,1246
+714,US,1215.6765599999999,Breakfast & Brunch,Niagara Falls,1,4.5,254
+715,CA,1167.485354,Wine Bars,Niagara Falls,3,4.5,209
+716,US,1418.477549,Indian,Niagara Falls,2,4.0,456
+717,CA,1061.638782,French,Niagara Falls,3,4.5,161
+718,CA,1173.859201,Italian,Niagara Falls,2,4.5,237
+719,CA,1499.017225,Greek,Niagara Falls,2,4.5,169
+720,CA,782.6536704,Steakhouses,Niagara Falls,3,3.5,427
+721,CA,1006.8759230000001,Pizza,Niagara Falls,2,4.0,311
+722,CA,1422.966936,Steakhouses,Niagara Falls,2,4.0,287
+723,US,1444.118296,Pizza,Niagara Falls,1,4.5,182
+724,CA,1851.0160059999998,Vietnamese,Niagara Falls,1,4.0,224
+725,US,1020.567285,American (New),Niagara Falls,2,4.5,149
+726,CA,937.8644328,Fast Food,Niagara Falls,1,4.0,196
+727,CA,542.5637211000001,Steakhouses,Niagara Falls,3,4.0,172
+728,CA,1346.1969880000001,Sushi Bars,Niagara Falls,2,4.0,150
+729,CA,2698.808676,Creperies,Niagara Falls,2,4.5,244
+730,CA,736.2140316000001,Brazilian,Niagara Falls,3,3.5,280
+733,GB,961.0529267999999,Modern European,Tower of London,3,4.0,520
+734,GB,1111.10036,Coffee & Tea,Tower of London,2,4.5,276
+736,GB,1338.146886,Indian,Tower of London,2,4.0,633
+737,GB,1826.209013,Indian,Tower of London,2,4.5,323
+739,GB,951.678367,Coffee & Tea,Tower of London,2,4.5,73
+740,GB,933.7219233999999,Spanish,Tower of London,2,4.5,71
+741,GB,1449.8767,Steakhouses,Tower of London,3,4.5,162
+742,GB,961.3059663999999,Asian Fusion,Tower of London,4,4.0,192
+744,GB,1449.374483,British,Tower of London,2,4.0,193
+745,GB,1051.342001,Pizza,Tower of London,1,4.5,70
+747,GB,1665.3026289999998,British,Tower of London,2,4.0,220
+748,GB,246.2465344,Bakeries,Tower of London,2,4.0,76
+749,GB,1019.6712470000001,Italian,Tower of London,2,4.5,70
+750,GB,2239.236291,British,Tower of London,3,4.0,266
+751,ES,635.7430037,Chocolatiers & Shops,Madrid Palace,1,4.0,753
+753,ES,894.882106,Mexican,Madrid Palace,1,4.5,215
+754,ES,685.2339776,Spanish,Madrid Palace,3,4.0,362
+755,ES,1468.6228820000001,Tapas Bars,Madrid Palace,2,4.5,270
+757,ES,765.0147154,Tapas Bars,Madrid Palace,2,4.5,119
+760,ES,751.0315615000001,Meat Shops,Madrid Palace,1,4.0,193
+761,ES,1099.4316019999999,Spanish,Madrid Palace,2,4.0,290
+762,ES,814.80896,Argentine,Madrid Palace,2,4.5,84
+763,ES,1187.608408,Coffee & Tea,Madrid Palace,1,4.5,168
+764,ES,783.3646892999999,Tapas/Small Plates,Madrid Palace,2,4.5,111
+765,ES,575.9381513999999,Vegetarian,Madrid Palace,2,4.0,88
+766,ES,1023.778805,Tapas Bars,Madrid Palace,1,4.0,153
+767,ES,988.5336394,Tapas Bars,Madrid Palace,2,4.5,68
+768,ES,321.6134272,Spanish,Madrid Palace,3,4.5,53
+769,ES,1098.256899,Breakfast & Brunch,Madrid Palace,1,4.5,127
+770,ES,954.3425890000001,Lounges,Madrid Palace,2,4.5,54
+772,FR,90.21315081,French,"Mont St. Michel, France",2,4.0,17
+773,FR,2470.277207,French,"Mont St. Michel, France",2,5.0,12
+774,FR,90.21315081,French,"Mont St. Michel, France",4,2.5,24
+775,FR,127.93334209999999,French,"Mont St. Michel, France",3,2.0,18
+777,FR,121.85461389999999,French,"Mont St. Michel, France",2,2.5,12
+778,FR,124.3444409,French,"Mont St. Michel, France",2,2.5,5
+781,FR,90.21315081,Restaurants,"Mont St. Michel, France",2,2.0,9
+782,FR,123.0619061,French,"Mont St. Michel, France",2,2.0,9
+784,FR,110.2416712,French,"Mont St. Michel, France",1,3.5,2
+785,FR,4248.601117,Creperies,"Mont St. Michel, France",3,4.0,6
+786,FR,2331.47523,French,"Mont St. Michel, France",3,3.5,3
+789,FR,3673.284021,Seafood,"Mont St. Michel, France",2,4.5,2
+791,US,240.6538538,American (New),Las Vegas,2,4.5,1729
+792,US,366.6490468,American (New),Las Vegas,2,4.0,2041
+793,US,287.4720736,Pizza,Las Vegas,2,4.0,1859
+794,US,298.96623389999996,Vegan,Las Vegas,2,4.5,1096
+795,US,126.77564779999999,Thai,Las Vegas,2,4.0,1475
+796,US,317.7873689,American (Traditional),Las Vegas,3,4.5,814
+797,US,430.36702130000003,Steakhouses,Las Vegas,4,4.5,632
+798,US,242.9395921,Donuts,Las Vegas,1,4.5,716
+799,US,940.1162214999999,Breakfast & Brunch,Las Vegas,2,4.5,919
+800,US,281.63104960000004,Steakhouses,Las Vegas,3,4.5,508
+801,US,97.34670067,American (New),Las Vegas,2,4.0,822
+802,US,304.8903921,Steakhouses,Las Vegas,2,4.0,956
+803,US,104.3666712,Lounges,Las Vegas,2,4.5,309
+804,US,165.0306326,American (New),Las Vegas,2,4.0,969
+805,US,774.2231172,Cafes,Las Vegas,2,4.5,733
+806,US,72.49599965,American (New),Las Vegas,2,4.0,994
+807,US,202.57175780000003,Bars,Las Vegas,2,3.5,1371
+808,US,275.947441,Cocktail Bars,Las Vegas,2,4.5,327
+809,US,1305.928985,Sandwiches,Las Vegas,1,4.5,586
+810,US,1745.51088,Tacos,Las Vegas,1,4.5,1421
+812,MY,136.0652818,Lounges,Petronas Twin Towers,3,4.0,34
+813,MY,1756.9390239999998,Coffee & Tea,Petronas Twin Towers,2,4.5,51
+814,MY,979.1722382000002,Dim Sum,Petronas Twin Towers,2,4.0,33
+815,MY,505.6792211,Latin American,Petronas Twin Towers,2,4.5,16
+817,MY,1545.393991,Chinese,Petronas Twin Towers,1,4.5,20
+818,MY,34.18161926,Malaysian,Petronas Twin Towers,2,3.5,33
+819,MY,1072.184792,Cafes,Petronas Twin Towers,2,4.0,37
+820,MY,777.4603772,Lounges,Petronas Twin Towers,2,3.5,31
+821,MY,1004.574844,Bars,Petronas Twin Towers,2,4.5,21
+822,MY,1213.7894,Asian Fusion,Petronas Twin Towers,2,4.5,19
+823,MY,532.8073352,Bars,Petronas Twin Towers,3,3.5,33
+824,MY,1257.16527,Food Court,Petronas Twin Towers,2,4.0,22
+825,MY,230.20959989999997,Sushi Bars,Petronas Twin Towers,2,4.0,15
+826,MY,622.5864857999999,Diners,Petronas Twin Towers,4,5.0,7
+827,MY,649.9414843999999,American (Traditional),Petronas Twin Towers,3,3.5,26
+828,MY,1236.653167,Malaysian,Petronas Twin Towers,3,4.0,18
+829,MY,1473.123009,Indian,Petronas Twin Towers,1,5.0,11
+830,MY,872.5880822,Food Court,Petronas Twin Towers,1,4.5,12
+831,GB,379.0938419,Pubs,Windsor Castle,2,4.5,33
+832,GB,254.1224989,Gastropubs,Windsor Castle,2,4.0,37
+833,GB,240.85671459999998,Pubs,Windsor Castle,2,4.0,30
+834,GB,223.1199321,British,Windsor Castle,2,4.0,23
+835,GB,353.1120478,Italian,Windsor Castle,2,4.0,20
+836,GB,245.1276867,Thai,Windsor Castle,2,4.0,25
+837,GB,245.7887358,Indian,Windsor Castle,2,4.0,16
+838,GB,280.4026012,Ramen,Windsor Castle,2,4.0,21
+839,GB,427.3161623,Moroccan,Windsor Castle,2,4.5,18
+840,GB,423.42208389999996,Breakfast & Brunch,Windsor Castle,2,4.0,19
+841,GB,673.9160901,Mediterranean,Windsor Castle,2,4.5,9
+842,GB,238.8651935,Pubs,Windsor Castle,2,3.5,16
+843,GB,414.16824080000004,Pubs,Windsor Castle,3,4.0,10
+844,GB,439.6229915,British,Windsor Castle,2,4.5,9
+845,GB,284.4209747,Pubs,Windsor Castle,2,3.5,19
+846,GB,293.82008260000003,Fast Food,Windsor Castle,2,4.0,16
+847,GB,253.0683729,Pubs,Windsor Castle,2,4.0,12
+848,GB,938.1569575,Fish & Chips,Windsor Castle,1,4.0,13
+849,GB,302.45755310000004,Pubs,Windsor Castle,2,3.5,12
+850,GB,826.2426952999999,Indian,Windsor Castle,2,4.0,12
+852,FR,279.5443924,French,"Sacre Coeur, Paris",2,4.5,323
+853,FR,355.2095661,French,"Sacre Coeur, Paris",2,4.5,197
+854,FR,83.42622237,Italian,"Sacre Coeur, Paris",2,4.5,143
+855,FR,109.3450129,Coffee & Tea,"Sacre Coeur, Paris",2,4.5,99
+856,FR,276.3497707,Coffee & Tea,"Sacre Coeur, Paris",2,4.5,110
+857,FR,700.9165793999999,Cocktail Bars,"Sacre Coeur, Paris",2,4.0,218
+858,FR,300.46767689999996,Creperies,"Sacre Coeur, Paris",2,4.5,102
+859,FR,2472.994052,French,"Sacre Coeur, Paris",2,4.5,570
+860,FR,672.4568567000001,French,"Sacre Coeur, Paris",2,4.5,145
+861,FR,3451.414389,Kosher,"Sacre Coeur, Paris",1,4.5,1384
+862,FR,841.3529187,French,"Sacre Coeur, Paris",2,4.5,126
+864,FR,551.5970787,Italian,"Sacre Coeur, Paris",2,4.5,115
+865,FR,366.2509193,French,"Sacre Coeur, Paris",3,4.5,78
+866,FR,270.97286230000003,French,"Sacre Coeur, Paris",3,5.0,53
+867,FR,649.9429462999999,French,"Sacre Coeur, Paris",2,4.0,136
+868,FR,446.4640449,Japanese,"Sacre Coeur, Paris",4,4.5,87
+869,FR,274.6025961,French,"Sacre Coeur, Paris",2,4.5,70
+872,US,340.58029139999996,French,St. Paul's Cathedral,3,4.5,349
+873,US,902.9680710000001,Asian Fusion,St. Paul's Cathedral,1,4.5,127
+874,US,1051.0807220000002,Mexican,St. Paul's Cathedral,1,4.5,183
+875,US,586.1536497000001,Sandwiches,St. Paul's Cathedral,2,3.5,523
+876,US,971.3851935,Asian Fusion,St. Paul's Cathedral,2,4.0,297
+877,US,2357.8429760000004,Thai,St. Paul's Cathedral,1,4.5,898
+878,US,310.3785091,American (Traditional),St. Paul's Cathedral,2,4.0,323
+879,US,297.2802008,American (New),St. Paul's Cathedral,2,4.0,164
+880,US,1053.112958,Coffee & Tea,St. Paul's Cathedral,1,5.0,102
+881,US,2060.617649,Bars,St. Paul's Cathedral,2,3.5,939
+882,US,1509.433186,Pizza,St. Paul's Cathedral,2,4.0,289
+883,US,872.2106986,Japanese,St. Paul's Cathedral,1,4.0,245
+884,US,177.9775992,Creperies,St. Paul's Cathedral,2,4.0,139
+885,US,2958.620297,Bakeries,St. Paul's Cathedral,1,4.5,375
+886,US,2028.5173489999997,Vegan,St. Paul's Cathedral,2,4.5,180
+887,US,1507.446341,Breakfast & Brunch,St. Paul's Cathedral,1,4.0,261
+888,US,454.12155,Indian,St. Paul's Cathedral,2,4.0,207
+889,US,2446.000432,Coffee & Tea,St. Paul's Cathedral,1,4.5,292
+890,US,926.3245582999999,Barbeque,St. Paul's Cathedral,2,4.0,160
+892,US,1287.3553630000001,Bakeries,Central Park,2,4.5,2139
+893,US,954.3825645,Comfort Food,Central Park,2,4.0,2882
+894,US,2621.905791,Food Stands,Central Park,1,4.5,8717
+895,US,704.7816167000001,Cuban,Central Park,2,4.0,2260
+896,US,969.7280102,Burgers,Central Park,2,4.0,2218
+897,US,1799.2578850000002,French,Central Park,4,4.5,1353
+898,US,1588.8048390000001,Thai,Central Park,2,4.5,1586
+899,US,1073.931523,Vegetarian,Central Park,3,4.0,1174
+900,US,1446.080005,Italian,Central Park,2,4.0,1957
+901,US,1569.260213,Japanese,Central Park,2,4.0,1462
+902,US,1042.8255550000001,Seafood,Central Park,3,4.0,905
+903,US,1282.915386,Seafood,Central Park,2,4.0,1055
+904,US,977.3017965,Burgers,Central Park,2,4.0,1252
+905,US,1340.086894,Bakeries,Central Park,1,4.5,770
+906,US,2784.518393,Coffee & Tea,Central Park,1,4.5,3186
+907,US,668.7629221,Greek,Central Park,2,3.5,1315
+908,US,1006.480702,Seafood,Central Park,2,4.0,900
+909,US,1007.840846,Chinese,Central Park,2,4.0,1038
+910,US,2742.752318,French,Central Park,4,4.5,2093
+912,US,3653.483279,Steakhouses,Mount Rushmore,2,4.0,172
+913,US,486.4118822,Cafes,Mount Rushmore,2,3.0,22
+916,US,434.0722927,Fast Food,Mount Rushmore,2,3.0,1
+920,JP,3778.393925,Restaurants,Mount Fuji,1,5.0,1
+921,IT,363.9019737,Italian,Rialto Bridge,1,4.5,764
+922,IT,435.002409,Napoletana,Rialto Bridge,2,4.0,351
+923,IT,657.3200693,Italian,Rialto Bridge,2,4.5,172
+924,IT,537.3208862,Italian,Rialto Bridge,2,4.5,163
+927,IT,185.32936769999998,Pizza,Rialto Bridge,1,4.5,129
+928,IT,591.9066374,Pizza,Rialto Bridge,2,4.5,149
+929,IT,217.62555279999998,Seafood,Rialto Bridge,3,4.5,170
+931,IT,114.8064368,Italian,Rialto Bridge,2,4.0,119
+932,IT,519.321728,Cafes,Rialto Bridge,3,4.0,172
+934,IT,163.28517480000002,Wine Bars,Rialto Bridge,2,4.5,52
+935,IT,593.4047383,Seafood,Rialto Bridge,2,4.0,118
+936,IT,426.40485989999996,Italian,Rialto Bridge,3,4.5,67
+937,IT,777.1244949000001,Venetian,Rialto Bridge,3,4.5,62
+938,IT,1035.1828970000001,Trattorie,Rialto Bridge,2,4.5,74
+939,IT,257.80852000000004,Wine Bars,Rialto Bridge,2,4.5,44
+940,IT,828.2716216,Italian,Rialto Bridge,1,4.5,66
+941,IT,440.6112862,Bars,Arena Di Verona,2,5.0,41
+942,IT,245.34895919999997,Italian,Arena Di Verona,3,5.0,20
+943,IT,348.0427887,Italian,Arena Di Verona,4,4.5,27
+944,IT,765.9178522000001,Pizza,Arena Di Verona,2,5.0,24
+945,IT,275.8292566,Italian,Arena Di Verona,2,4.5,25
+946,IT,430.05492699999996,Italian,Arena Di Verona,3,4.5,24
+948,IT,470.52235360000003,Cafeteria,Arena Di Verona,1,5.0,11
+949,IT,393.51384889999997,Italian,Arena Di Verona,3,4.5,17
+950,IT,191.7549536,Italian,Arena Di Verona,2,4.5,16
+951,IT,323.1748169,Pizza,Arena Di Verona,2,4.5,14
+952,IT,130.8990942,Italian,Arena Di Verona,3,4.5,11
+953,IT,113.069268,Pizza,Arena Di Verona,3,4.0,16
+954,IT,418.31487089999996,Italian,Arena Di Verona,2,4.5,14
+955,IT,397.0332637,Italian,Arena Di Verona,3,4.0,13
+956,IT,127.3478769,Italian,Arena Di Verona,3,4.5,9
+957,IT,192.2290961,Italian,Arena Di Verona,3,4.5,8
+958,IT,391.1006389,Mediterranean,Arena Di Verona,4,5.0,5
+959,IT,1012.6150539999999,Italian,Arena Di Verona,4,4.5,14
+960,IT,971.6544811000001,Brasseries,Arena Di Verona,3,4.5,13
+961,US,1374.596198,Seafood,Space Needle,2,4.5,5526
+962,US,1281.735616,Bakeries,Space Needle,1,4.5,4957
+963,US,761.2421091,Cajun/Creole,Space Needle,2,4.0,3330
+964,US,1234.934634,Italian,Space Needle,2,4.5,3251
+965,US,653.4933512,Sushi Bars,Space Needle,3,4.5,1778
+966,US,316.7064332,Breakfast & Brunch,Space Needle,2,4.5,1507
+967,US,1062.037361,Greek,Space Needle,2,4.0,3239
+968,US,832.2191636,Sushi Bars,Space Needle,2,4.0,2977
+969,US,1068.151575,Pizza,Space Needle,2,4.0,3607
+971,US,1436.238195,Bakeries,Space Needle,1,4.5,1925
+972,US,1295.309346,Bakeries,Space Needle,1,4.5,1957
+973,US,839.0079347999999,Italian,Space Needle,2,4.5,1501
+974,US,1332.212184,Cheese Shops,Space Needle,1,4.0,2171
+975,US,1585.689855,Japanese,Space Needle,2,4.0,3720
+976,US,1255.895874,Breakfast & Brunch,Space Needle,1,4.0,2455
+977,US,557.9516318,American (New),Space Needle,2,4.5,724
+979,US,3.2403571660000003,American (New),Space Needle,3,4.0,1493
+980,US,1453.673685,Coffee & Tea,Space Needle,2,4.5,1085
+982,GB,1462.962474,Indian,Westminster Abbey,2,4.5,1147
+985,GB,678.1997811000001,Coffee & Tea,Westminster Abbey,1,4.5,306
+986,GB,999.4206929999999,Wine Bars,Westminster Abbey,2,4.5,371
+990,GB,1583.883695,British,Westminster Abbey,3,4.5,286
+991,GB,1325.280763,Cafes,Westminster Abbey,3,4.0,427
+992,GB,1676.9689349999999,Coffee & Tea,Westminster Abbey,2,4.5,272
+994,GB,1691.816692,Dim Sum,Westminster Abbey,3,4.0,441
+995,GB,1619.835558,Steakhouses,Westminster Abbey,2,4.5,287
+996,GB,1749.278523,Indian,Westminster Abbey,2,4.5,287
+997,GB,1615.154577,Burgers,Westminster Abbey,2,4.5,238
+998,GB,1574.94637,Mediterranean,Westminster Abbey,3,4.5,232
+999,GB,1117.963794,Japanese,Westminster Abbey,2,4.0,297
+1000,GB,1608.698485,Seafood,Westminster Abbey,2,4.0,252
+1003,ES,2085.0556079999997,Spanish,Rock of Gibraltar,2,4.5,4
+1004,ES,2123.308564,Coffee & Tea,Rock of Gibraltar,2,4.0,5
+1006,ES,2207.425334,Tapas Bars,Rock of Gibraltar,2,4.5,3
+1007,ES,2340.253966,Spanish,Rock of Gibraltar,1,4.0,5
+1012,ES,2142.687591,Italian,Rock of Gibraltar,1,4.5,3
+1020,ES,3001.815768,Mediterranean,Rock of Gibraltar,2,5.0,1
+1022,US,2354.83069,American (New),Alcatraz,4,4.5,4716
+1023,US,2308.216348,Seafood,Alcatraz,2,4.0,3987
+1024,US,2251.023193,British,Alcatraz,1,4.5,2510
+1025,US,3464.1155729999996,Asian Fusion,Alcatraz,3,4.5,4235
+1026,US,3727.993199,American (Traditional),Alcatraz,3,4.0,6195
+1027,US,2043.7092969999999,Seafood,Alcatraz,3,4.0,2983
+1028,US,3055.431277,Breakfast & Brunch,Alcatraz,2,4.0,3811
+1029,US,3925.2037960000002,Greek,Alcatraz,3,4.5,3997
+1030,US,3207.598766,Pizza,Alcatraz,2,4.0,3935
+1031,US,2360.247527,Breakfast & Brunch,Alcatraz,2,4.5,1736
+1032,US,3283.562519,Seafood,Alcatraz,2,4.5,2996
+1033,US,3293.117835,Pizza,Alcatraz,1,4.5,2804
+1034,US,2177.438251,Bakeries,Alcatraz,2,4.0,2847
+1035,US,2284.418999,Bars,Alcatraz,2,4.0,2147
+1037,US,2327.959683,American (New),Alcatraz,2,4.5,832
+1038,US,3208.041984,French,Alcatraz,4,4.5,1385
+1040,US,2820.600566,American (New),Alcatraz,3,4.0,1962
+1042,GB,2572.970015,Pubs,White Cliffs of Dover,2,4.0,8
+1050,US,1446.151244,American (Traditional),Washington Monument,2,4.0,10453
+1051,US,961.9296299,Bars,Washington Monument,2,4.0,6297
+1052,US,1470.904008,Greek,Washington Monument,3,4.0,3869
+1053,US,1353.4624609999998,Indian,Washington Monument,3,4.5,2584
+1055,US,930.4429007000001,Brazilian,Washington Monument,3,4.0,1554
+1056,US,1081.692484,Pizza,Washington Monument,1,4.5,780
+1057,US,1614.080608,Pizza,Washington Monument,2,4.0,2648
+1058,US,1694.713609,Ramen,Washington Monument,2,4.0,2312
+1060,US,2691.336221,Bakeries,Washington Monument,2,4.5,3634
+1061,US,928.5149717,Seafood,Washington Monument,2,3.5,1856
+1062,US,1187.4823210000002,Seafood,Washington Monument,3,4.5,884
+1064,US,959.5344650000001,American (New),Washington Monument,3,4.0,1138
+1065,US,1322.518043,Mexican,Washington Monument,2,3.5,2288
+1067,US,1005.2109519999999,Mexican,Washington Monument,1,4.0,1269
+1069,US,1399.369598,Seafood,Washington Monument,2,4.0,1118
+1072,GB,362.29116830000004,Coffee & Tea,The Shard,2,4.5,276
+1074,GB,819.1286954,British,The Shard,2,4.0,193
+1075,GB,919.829151,British,The Shard,2,4.0,220
+1076,GB,1354.341864,Modern European,The Shard,3,4.0,520
+1079,GB,2330.434222,Indian,The Shard,2,4.5,323
+1081,GB,242.18210249999998,Italian,The Shard,2,4.5,70
+1082,GB,540.077383,Spanish,The Shard,2,4.5,71
+1083,GB,2139.095949,Indian,The Shard,2,4.0,633
+1084,GB,450.26514199999997,Indian,The Shard,2,4.5,81
+1085,GB,282.8922047,Tapas Bars,The Shard,2,4.0,118
+1086,GB,1795.5720190000002,Pubs,The Shard,2,4.0,294
+1087,GB,268.3902905,Pubs,The Shard,2,4.0,115
+1088,GB,90.29320276,Lounges,The Shard,4,4.0,79
+1089,GB,363.2701184,Seafood,The Shard,3,4.0,79
+1091,GB,192.5529296,Modern European,The Gherkin,3,4.0,520
+1093,GB,1145.477387,Indian,The Gherkin,2,4.5,323
+1094,GB,1214.274386,Indian,The Gherkin,2,4.0,633
+1096,GB,807.255781,Steakhouses,The Gherkin,3,4.5,162
+1097,GB,1259.816841,Coffee & Tea,The Gherkin,2,4.5,276
+1099,GB,1215.913158,Coffee & Tea,The Gherkin,2,4.5,155
+1100,GB,773.122305,Fish & Chips,The Gherkin,2,4.0,251
+1101,GB,192.75609680000002,Asian Fusion,The Gherkin,4,4.0,192
+1103,GB,708.0108004,Coffee & Tea,The Gherkin,2,4.5,73
+1104,GB,394.31411569999995,Pizza,The Gherkin,1,4.5,70
+1105,GB,1433.796585,Lounges,The Gherkin,3,4.5,165
+1106,GB,602.5979225,Burgers,The Gherkin,2,4.5,74
+1107,GB,1609.713123,British,The Gherkin,3,4.0,266
+1108,GB,1858.770065,Pubs,The Gherkin,2,4.0,294
+1109,GB,555.4120328,Cafes,The Gherkin,2,4.5,51
+1113,DE,1041.50674,Chocolatiers & Shops,"Brandenburg Gate, Berlin",3,4.5,292
+1115,DE,663.2824112000001,Wine Bars,"Brandenburg Gate, Berlin",2,4.5,125
+1116,DE,2589.352091,Food Stands,"Brandenburg Gate, Berlin",1,4.5,808
+1117,DE,484.5572095,Modern European,"Brandenburg Gate, Berlin",4,5.0,62
+1119,DE,630.5056013999999,Chinese,"Brandenburg Gate, Berlin",2,4.0,174
+1120,DE,585.8941476,Steakhouses,"Brandenburg Gate, Berlin",3,4.0,140
+1122,DE,806.6807413,Cafes,"Brandenburg Gate, Berlin",3,4.5,87
+1124,DE,277.2273514,German,"Brandenburg Gate, Berlin",3,4.0,104
+1125,DE,964.2971107000001,Sushi Bars,"Brandenburg Gate, Berlin",4,4.5,95
+1126,DE,1016.3070539999999,Steakhouses,"Brandenburg Gate, Berlin",3,3.5,275
+1127,DE,770.2554885,German,"Brandenburg Gate, Berlin",2,4.0,172
+1129,DE,1657.385334,Syrian,"Brandenburg Gate, Berlin",1,4.5,149
+1131,DE,154.9449527,Beer Garden,Cologne Cathedral,2,3.5,422
+1133,DE,570.4894005,Lebanese,Cologne Cathedral,2,4.0,136
+1134,DE,261.9493824,German,Cologne Cathedral,2,4.0,202
+1136,DE,469.43255760000005,Steakhouses,Cologne Cathedral,3,4.0,193
+1137,DE,757.0426251,Japanese,Cologne Cathedral,2,4.0,186
+1138,DE,1122.033043,Dive Bars,Cologne Cathedral,2,4.5,116
+1139,DE,1293.932216,Breakfast & Brunch,Cologne Cathedral,2,4.5,140
+1140,DE,470.55516560000007,Breweries,Cologne Cathedral,2,4.0,144
+1142,DE,1918.615866,Gastropubs,Cologne Cathedral,2,4.5,261
+1143,DE,528.6847403,Japanese,Cologne Cathedral,3,4.0,94
+1144,DE,175.71176780000002,Chocolatiers & Shops,Cologne Cathedral,3,4.0,111
+1145,DE,134.7441136,Breweries,Cologne Cathedral,2,3.5,181
+1146,DE,957.0670577,Burgers,Cologne Cathedral,2,4.5,88
+1147,DE,1909.6462510000001,Cocktail Bars,Cologne Cathedral,3,5.0,115
+1148,DE,394.77021510000003,Beer Garden,Cologne Cathedral,3,4.5,51
+1149,DE,898.3628749,German,Cologne Cathedral,2,4.0,109
+1150,US,3323.177693,American (Traditional),Pentagon,2,4.0,10453
+1152,US,2113.61769,Halal,Pentagon,2,4.0,1602
+1153,US,3519.125907,Bars,Pentagon,2,4.0,6297
+1154,US,3581.079931,Bakeries,Pentagon,2,4.5,3634
+1155,US,1301.908882,"Beer, Wine & Spirits",Pentagon,1,5.0,235
+1156,US,3301.191902,American (New),Pentagon,2,4.0,2635
+1159,US,2839.348159,Mexican,Pentagon,1,4.5,493
+1160,US,3161.185993,Vietnamese,Pentagon,1,4.0,1405
+1162,US,1348.1040970000001,Ethiopian,Pentagon,2,4.5,278
+1166,US,3335.274973,Seafood,Pentagon,3,4.0,851
+1167,US,3776.767736,American (New),Pentagon,3,4.0,1970
+1175,MX,484.6251711,Yucatan,Mayan Pyramids of Chichen Itza,2,4.0,20
+1176,MX,2249.073331,Mexican,Mayan Pyramids of Chichen Itza,1,4.0,29
+1177,MX,2722.001662,Mexican,Mayan Pyramids of Chichen Itza,1,4.5,13
+1178,MX,1290.9372050000002,Mexican,Mayan Pyramids of Chichen Itza,1,4.0,6
+1183,MX,1872.8013190000001,Mexican,Mayan Pyramids of Chichen Itza,2,3.5,3
+1184,MX,2748.351659,Mexican,Mayan Pyramids of Chichen Itza,1,3.5,3
+1186,US,231.7134588,Breakfast & Brunch,"Cloud Gate, Chicago",2,4.5,4493
+1188,US,935.6612815999999,Tapas/Small Plates,"Cloud Gate, Chicago",2,4.0,5757
+1190,US,205.8532543,Gastropubs,"Cloud Gate, Chicago",3,4.0,2401
+1191,US,2046.182287,American (New),"Cloud Gate, Chicago",3,4.5,7007
+1193,US,1055.9752449999999,Seafood,"Cloud Gate, Chicago",3,4.5,1988
+1194,US,1204.785984,Steakhouses,"Cloud Gate, Chicago",3,4.5,1855
+1195,US,1219.113574,Pizza,"Cloud Gate, Chicago",2,4.0,4377
+1196,US,1094.260542,Mexican,"Cloud Gate, Chicago",2,4.0,3309
+1197,US,1078.719832,Italian,"Cloud Gate, Chicago",3,4.0,2543
+1198,US,860.3855487,Seafood,"Cloud Gate, Chicago",3,4.0,1813
+1199,US,816.7673748,Coffee & Tea,"Cloud Gate, Chicago",1,4.5,1388
+1200,US,607.8542658,Coffee & Tea,"Cloud Gate, Chicago",1,4.5,963
+1201,US,1055.3793269999999,Asian Fusion,"Cloud Gate, Chicago",2,4.0,2264
+1202,US,2029.2333039999999,Bars,"Cloud Gate, Chicago",2,4.5,4873
+1203,US,1381.104525,Hot Dogs,"Cloud Gate, Chicago",1,4.0,4118
+1204,US,1270.948725,Italian,"Cloud Gate, Chicago",2,4.0,3908
+1205,US,908.8016610999999,Italian,"Cloud Gate, Chicago",3,4.0,1422
+1207,US,0.603802964,American (New),Yellowstone National Park,3,3.5,47
+1218,TR,1000.922561,Turkish,Hagia Sophia,2,4.5,95
+1219,TR,471.5062666,Cafes,Hagia Sophia,2,5.0,49
+1220,TR,286.2560367,Turkish,Hagia Sophia,2,4.0,71
+1221,TR,874.9656107000001,Turkish,Hagia Sophia,1,4.5,49
+1222,TR,1038.8692449999999,Landmarks & Historical Buildings,Hagia Sophia,2,4.0,122
+1223,TR,1230.653043,Public Markets,Hagia Sophia,2,4.5,69
+1225,TR,1661.644345,Turkish,Hagia Sophia,3,4.5,50
+1226,TR,330.15421860000004,Turkish,Hagia Sophia,2,4.0,33
+1227,TR,1295.056003,Turkish,Hagia Sophia,2,4.0,87
+1228,TR,557.2375035,Turkish,Hagia Sophia,2,4.5,35
+1230,TR,2086.742248,Cafes,Hagia Sophia,2,4.5,51
+1231,TR,731.6804949,Kebab,Hagia Sophia,2,4.0,36
+1232,TR,214.8975569,Day Spas,Hagia Sophia,3,4.5,24
+1235,DK,1105.860627,Cafes,Nyhavn,1,4.0,237
+1236,DK,1382.8553,Cafes,Nyhavn,1,4.5,165
+1237,DK,1258.728299,Bagels,Nyhavn,1,4.5,132
+1238,DK,947.6077333999999,Lounges,Nyhavn,3,4.5,105
+1239,DK,225.5483577,Scandinavian,Nyhavn,4,5.0,34
+1240,DK,205.3870187,Breakfast & Brunch,Nyhavn,2,4.0,123
+1241,DK,1593.823251,Danish,Nyhavn,3,4.5,166
+1243,DK,1009.147147,American (Traditional),Nyhavn,1,4.5,69
+1245,DK,686.1530821,Cafes,Nyhavn,2,4.0,122
+1246,DK,1082.72334,Desserts,Nyhavn,1,4.5,74
+1247,DK,1125.4801710000002,Danish,Nyhavn,2,4.5,99
+1248,DK,918.0062139,Burgers,Nyhavn,2,4.0,97
+1249,DK,437.58560470000003,Cocktail Bars,Nyhavn,3,4.0,71
+1250,DK,284.09958,Steakhouses,Nyhavn,3,4.0,58
+1251,DK,1385.388566,Breakfast & Brunch,Nyhavn,1,4.5,112
+1252,DK,472.9127375,Vietnamese,Nyhavn,1,4.0,66
+1253,DK,437.76761150000004,Chocolatiers & Shops,Nyhavn,2,4.5,38
+1254,US,16.06175651,Cooking Classes,Ponte Vecchio,3,5.0,61
+1255,US,2025.350357,American (Traditional),Ponte Vecchio,2,4.5,407
+1256,US,7.745873155,Thai,Ponte Vecchio,2,4.0,153
+1257,US,1418.0929,American (New),Ponte Vecchio,3,4.0,229
+1258,US,12.31407664,Italian,Ponte Vecchio,2,3.5,145
+1259,US,1697.471125,Food Trucks,Ponte Vecchio,2,4.5,66
+1260,US,2235.582289,Sandwiches,Ponte Vecchio,1,4.5,60
+1261,US,2439.061963,Thai,Ponte Vecchio,2,4.0,114
+1262,US,31.27844071,Pizza,Ponte Vecchio,2,3.5,54
+1263,US,3248.9852379999998,Barbeque,Ponte Vecchio,2,3.5,269
+1264,US,3204.823697,Cafes,Ponte Vecchio,2,4.0,119
+1265,US,1272.712696,Grocery,Ponte Vecchio,2,4.0,20
+1266,US,2283.754347,Pizza,Ponte Vecchio,1,4.0,56
+1267,US,3411.1604450000004,Latin American,Ponte Vecchio,2,3.0,148
+1268,US,1096.374967,Pizza,Ponte Vecchio,1,4.0,18
+1269,US,2660.173527,Steakhouses,Ponte Vecchio,2,3.5,107
+1270,US,1983.374797,Pizza,Ponte Vecchio,2,4.5,24
+1271,US,1920.9978879999999,American (New),Ponte Vecchio,2,3.0,56
+1272,US,1269.479556,Bagels,Ponte Vecchio,1,3.5,33
+1273,US,930.4701232000001,Diners,Ponte Vecchio,2,3.0,54
+1277,AU,1323.308102,Chinese,Sydney Harbor Bridge,3,4.0,223
+1278,AU,745.3510342000001,Coffee & Tea,Sydney Harbor Bridge,2,4.5,78
+1279,AU,760.9779121,Japanese,Sydney Harbor Bridge,3,4.0,125
+1280,AU,613.1175929,Modern Australian,Sydney Harbor Bridge,4,4.0,83
+1281,AU,1535.995058,Steakhouses,Sydney Harbor Bridge,4,4.0,115
+1282,AU,1146.00928,Cocktail Bars,Sydney Harbor Bridge,2,4.5,46
+1283,AU,809.8527422000001,Bakeries,Sydney Harbor Bridge,1,4.5,53
+1284,AU,1084.074676,Cafes,Sydney Harbor Bridge,3,4.0,91
+1285,AU,2905.419422,Malaysian,Sydney Harbor Bridge,2,4.0,248
+1286,AU,2841.5378769999998,Dim Sum,Sydney Harbor Bridge,2,4.0,247
+1287,AU,1994.0081109999999,Bars,Sydney Harbor Bridge,3,4.5,108
+1288,AU,820.5067627000001,Modern Australian,Sydney Harbor Bridge,2,4.0,78
+1289,AU,2585.0556079999997,Cafes,Sydney Harbor Bridge,2,4.5,81
+1291,AU,572.9530477000001,Breakfast & Brunch,Sydney Harbor Bridge,2,3.5,144
+1292,AU,771.747411,Australian,Sydney Harbor Bridge,3,4.0,52
+1293,AU,606.6936887999999,Burgers,Sydney Harbor Bridge,2,4.0,53
+1294,AU,1518.416475,Bars,Sydney Harbor Bridge,2,4.0,97
+1295,IT,776.7854563,Pizza,Sistine Chapel,2,4.5,385
+1297,IT,392.8816298,Pizza,Sistine Chapel,1,5.0,133
+1298,IT,1419.094917,Ice Cream & Frozen Yogurt,Sistine Chapel,1,4.5,387
+1301,IT,1375.834709,Italian,Sistine Chapel,2,4.0,440
+1302,IT,348.9366358,Pasta Shops,Sistine Chapel,1,4.5,108
+1303,IT,630.2846316,Roman,Sistine Chapel,2,4.0,143
+1304,IT,614.8357996,Wine Bars,Sistine Chapel,1,4.5,80
+1306,IT,1937.622529,Coffee & Tea,Sistine Chapel,1,4.5,234
+1307,IT,425.55162740000003,Sandwiches,Sistine Chapel,1,4.5,85
+1309,IT,1727.460938,Pizza,Sistine Chapel,2,4.5,284
+1310,IT,1615.9910009999999,Roman,Sistine Chapel,2,4.0,319
+1311,IT,1826.676562,Italian,Sistine Chapel,2,4.5,238
+1312,IT,1793.268132,Bars,Sistine Chapel,1,4.0,287
+1313,IT,1433.552035,Sandwiches,Sistine Chapel,1,4.5,120
+1314,IT,1508.016106,Italian,Sistine Chapel,2,4.5,213
+1316,IT,474.357933,Sandwiches,Spanish Steps,2,4.5,356
+1319,IT,428.7633687,Gluten-Free,Spanish Steps,3,4.5,178
+1320,IT,498.2347279,Italian,Spanish Steps,2,4.0,399
+1321,IT,851.7053601,Coffee & Tea,Spanish Steps,1,4.5,234
+1322,IT,602.7055037,Wine Bars,Spanish Steps,2,5.0,89
+1323,IT,1331.451527,Ice Cream & Frozen Yogurt,Spanish Steps,1,4.5,387
+1324,IT,1030.679312,Italian,Spanish Steps,3,4.5,217
+1326,IT,334.6339685,Italian,Spanish Steps,2,4.0,181
+1327,IT,1053.7204140000001,Bars,Spanish Steps,1,4.0,287
+1328,IT,1814.2390890000001,Pizza,Spanish Steps,1,4.5,439
+1329,IT,281.4442665,Italian,Spanish Steps,3,4.5,111
+1330,IT,1251.9593439999999,Wine Bars,Spanish Steps,2,4.5,291
+1331,IT,1255.081856,Italian,Spanish Steps,2,4.0,440
+1332,IT,809.0319217,Italian,Spanish Steps,2,4.5,121
+1333,IT,1267.291989,Pizza,Spanish Steps,1,4.5,160
+1334,IT,552.6383841,Italian,Spanish Steps,2,4.0,146
+1335,IT,257.2134311,Italian,Bridge of Sighs,1,4.5,764
+1336,IT,158.74567209999998,Napoletana,Bridge of Sighs,2,4.0,351
+1338,IT,515.4484805,Italian,Bridge of Sighs,2,4.5,163
+1340,IT,547.3632315000001,Pizza,Bridge of Sighs,2,4.5,149
+1341,IT,366.4886751,Seafood,Bridge of Sighs,3,4.5,170
+1343,IT,732.3332998999999,Pizza,Bridge of Sighs,1,4.5,129
+1344,IT,211.4448975,Cafes,Bridge of Sighs,3,4.0,172
+1345,IT,148.36593440000001,Seafood,Bridge of Sighs,2,4.0,118
+1346,IT,1222.880897,Italian,Bridge of Sighs,2,4.5,172
+1347,IT,385.2667079,Venetian,Bridge of Sighs,3,4.5,62
+1348,IT,469.6802865,Italian,Bridge of Sighs,2,4.0,119
+1349,IT,356.4497086,Italian,Bridge of Sighs,3,4.5,67
+1350,IT,171.4545791,Pizza,Bridge of Sighs,3,4.5,44
+1351,IT,739.1527866,Wine Bars,Bridge of Sighs,2,4.5,52
+1353,IT,187.1252597,Venetian,Bridge of Sighs,3,4.5,50
+1354,IT,619.8934694,Pizza,Bridge of Sighs,3,4.0,76
+1355,FR,610.1169642000001,Kosher,Pompidue Center,1,4.5,1384
+1357,FR,660.4002623,French,Pompidue Center,2,4.5,570
+1358,FR,162.79683359999999,Fondue,Pompidue Center,2,4.5,200
+1360,FR,1371.696792,Tapas Bars,Pompidue Center,2,4.5,504
+1361,FR,699.6452032000001,Creperies,Pompidue Center,2,4.0,346
+1362,FR,523.28791,Creperies,Pompidue Center,1,4.5,137
+1363,FR,553.981213,French,Pompidue Center,3,4.0,268
+1364,FR,456.53069450000004,Breakfast & Brunch,Pompidue Center,2,4.0,214
+1365,FR,856.7047859999999,French,Pompidue Center,4,4.5,169
+1367,FR,1252.49842,Bistros,Pompidue Center,2,4.5,252
+1368,FR,448.8036699,Burgers,Pompidue Center,2,4.5,149
+1369,FR,1311.5537800000002,Bistros,Pompidue Center,3,4.5,293
+1370,FR,734.7834014,Cafes,Pompidue Center,2,4.0,168
+1371,FR,856.7894658,Wine Bars,Pompidue Center,2,4.5,100
+1372,FR,880.0150576999999,Breakfast & Brunch,Pompidue Center,3,4.5,226
+1373,FR,463.8653621,French,Pompidue Center,2,4.0,158
+1374,FR,632.5894905,Kosher,Pompidue Center,2,4.5,117
+1376,FR,1403.607299,Restaurants,"Lascaux Caves, France",2,4.0,5
+1378,FR,1258.28458,Specialty Food,"Lascaux Caves, France",2,3.5,5
+1381,FR,1398.792535,Restaurants,"Lascaux Caves, France",2,4.0,2
+1382,FR,1272.770731,French,"Lascaux Caves, France",3,5.0,1
+1385,FR,1418.478938,Restaurants,"Lascaux Caves, France",2,3.0,2
+1390,FR,1258.28458,Restaurants,"Lascaux Caves, France",2,5.0,1
+1393,US,4136.79791,American (Traditional),Bryce Canyon National Park,2,3.5,163
+1395,US,4039.4161270000004,Pizza,Bryce Canyon National Park,1,3.5,38
+1401,JP,736.75157,Soba,Great Buddha,2,5.0,13
+1402,JP,729.627421,Japanese,Great Buddha,1,4.5,9
+1403,JP,916.4111811,Ramen,Great Buddha,1,4.5,12
+1404,JP,1126.854053,Cafes,Great Buddha,2,4.0,10
+1405,JP,755.971978,Cafes,Great Buddha,1,4.5,7
+1407,JP,1657.42678,Japanese Curry,Great Buddha,1,4.0,14
+1408,JP,770.8489897000001,Cafes,Great Buddha,1,5.0,4
+1409,JP,282.63041039999996,Desserts,Great Buddha,1,4.0,5
+1410,JP,407.82453710000004,Cafes,Great Buddha,1,4.5,4
+1411,JP,1195.432734,American (Traditional),Great Buddha,1,4.5,4
+1413,JP,395.5260561,Japanese,Great Buddha,1,5.0,2
+1414,JP,1019.529434,Burgers,Great Buddha,2,5.0,4
+1415,JP,348.9269807,Cafes,Great Buddha,1,5.0,2
+1417,JP,1194.866382,Italian,Great Buddha,2,4.5,3
+1418,JP,2657.333881,Cafes,Great Buddha,2,3.5,17
+1419,JP,1366.242398,Yakitori,Great Buddha,2,4.5,3
+1420,JP,1362.678698,"Beer, Wine & Spirits",Great Buddha,2,4.5,4
+1421,US,1333.750709,Shanghainese,"Freedom Tower, Ground Zero",2,4.0,4981
+1422,US,2421.925768,Delis,"Freedom Tower, Ground Zero",2,4.0,8683
+1423,US,2811.054564,Ramen,"Freedom Tower, Ground Zero",2,4.0,9234
+1425,US,1214.4719220000002,Burgers,"Freedom Tower, Ground Zero",1,4.5,1315
+1426,US,532.2799323,American (New),"Freedom Tower, Ground Zero",3,4.0,817
+1427,US,580.3184971,Middle Eastern,"Freedom Tower, Ground Zero",2,4.5,583
+1428,US,929.3143916000001,Seafood,"Freedom Tower, Ground Zero",2,4.5,915
+1429,US,1069.277699,Cocktail Bars,"Freedom Tower, Ground Zero",2,4.0,1215
+1430,US,2126.754243,Donuts,"Freedom Tower, Ground Zero",2,4.5,2965
+1432,US,752.5696333999999,Korean,"Freedom Tower, Ground Zero",4,4.5,462
+1433,US,438.0549404,Bakeries,"Freedom Tower, Ground Zero",2,4.0,713
+1434,US,839.9624673000001,Italian,"Freedom Tower, Ground Zero",3,4.0,1415
+1435,US,543.4987116000001,Italian,"Freedom Tower, Ground Zero",2,4.5,449
+1436,US,1786.60845,Pizza,"Freedom Tower, Ground Zero",2,4.0,5363
+1437,US,306.7193357,Burgers,"Freedom Tower, Ground Zero",2,4.0,844
+1438,US,1222.992336,Shanghainese,"Freedom Tower, Ground Zero",2,4.0,1268
+1439,US,1221.705191,Whiskey Bars,"Freedom Tower, Ground Zero",2,4.5,688
+1440,US,973.0841573999999,Pizza,"Freedom Tower, Ground Zero",2,4.0,1341
+1442,DK,142.6964824,Coffee & Tea,Kronborg Castle,2,4.5,7
+1444,DK,747.2842121,Cafes,Kronborg Castle,1,5.0,7
+1445,DK,720.3545967,Cafes,Kronborg Castle,1,4.5,3
+1447,DK,1092.2118269999999,Hotels,Kronborg Castle,3,4.5,5
+1449,DK,842.9279679,Steakhouses,Kronborg Castle,2,3.5,8
+1451,DK,875.8923017000001,Cafes,Kronborg Castle,2,4.5,3
+1452,DK,948.8425599,Thai,Kronborg Castle,1,4.5,3
+1454,DK,800.3517112000001,Sushi Bars,Kronborg Castle,2,4.5,2
+1456,DK,1072.2196390000001,Coffee & Tea,Kronborg Castle,1,3.5,8
+1457,DK,700.7836057,Asian Fusion,Kronborg Castle,1,4.0,2
+1458,DK,786.5251426,Thai,Kronborg Castle,2,5.0,1
+1460,DK,418.1504613,Cafes,Kronborg Castle,1,2.5,5
+1461,US,932.2608349999999,Cajun/Creole,Gateway Arch,2,4.5,1174
+1462,US,1121.629717,Creperies,Gateway Arch,2,4.0,1323
+1463,US,1087.2206429999999,Latin American,Gateway Arch,2,4.0,770
+1464,US,1033.606677,American (New),Gateway Arch,2,4.0,572
+1465,US,965.0405593,Burgers,Gateway Arch,2,3.5,1198
+1466,US,768.1571763,Barbeque,Gateway Arch,2,4.5,437
+1467,US,849.1235222999999,Pizza,Gateway Arch,2,4.5,261
+1469,US,547.3930117000001,American (New),Gateway Arch,2,4.0,462
+1471,US,753.7767294,Pizza,Gateway Arch,2,4.0,367
+1473,US,408.1090593,Italian,Gateway Arch,4,4.5,157
+1474,US,1526.7455320000001,Mediterranean,Gateway Arch,1,4.5,184
+1475,US,1665.757221,American (New),Gateway Arch,3,4.5,236
+1476,US,2367.0215120000003,Breweries,Gateway Arch,2,4.0,559
+1477,US,577.9032449,Sushi Bars,Gateway Arch,2,3.5,234
+1478,US,2565.219109,Lounges,Gateway Arch,2,4.0,474
+1479,US,2509.486017,American (New),Gateway Arch,3,4.0,425
+1480,US,1071.510452,Delis,Gateway Arch,1,4.5,140
+1481,US,2080.532892,Sandwiches,Moulin Rouge,1,4.5,232
+1482,US,917.7325537,Mexican,Moulin Rouge,2,5.0,74
+1483,US,2664.511313,Gastropubs,Moulin Rouge,2,4.0,271
+1484,US,3269.256962,Seafood,Moulin Rouge,1,5.0,125
+1485,US,963.6081596000001,Dive Bars,Moulin Rouge,1,4.5,41
+1486,US,923.2370804,Mexican,Moulin Rouge,1,4.0,53
+1487,US,2639.424138,Fish & Chips,Moulin Rouge,1,4.5,52
+1488,US,699.8602274,Mexican,Moulin Rouge,1,4.5,23
+1489,US,3347.437516,Mexican,Moulin Rouge,1,4.5,42
+1490,US,2769.993255,Cheese Shops,Moulin Rouge,2,5.0,15
+1491,US,2962.931825,Diners,Moulin Rouge,1,4.0,45
+1492,US,1756.5291120000002,Diners,Moulin Rouge,1,4.0,40
+1493,US,2581.534616,Fast Food,Moulin Rouge,1,4.0,43
+1494,US,2717.603929,Latin American,Moulin Rouge,1,4.5,17
+1495,US,2840.6553120000003,American (Traditional),Moulin Rouge,2,3.5,102
+1496,US,980.1688711000002,Mexican,Moulin Rouge,1,4.0,33
+1497,US,2900.4856210000003,Barbeque,Moulin Rouge,2,3.0,71
+1498,US,3817.530525,Burgers,Moulin Rouge,1,4.5,22
+1499,US,1530.302985,Buffets,Moulin Rouge,1,3.0,33
+1500,US,1288.338117,Breakfast & Brunch,Moulin Rouge,1,4.0,9
+1502,NL,120.43392069999999,Creperies,Mill Complex at Kinderdijk,2,4.0,3
+1503,NL,354.2537333,Cafes,Mill Complex at Kinderdijk,3,4.0,4
+1509,NL,5378.860046,Italian,Mill Complex at Kinderdijk,2,3.0,3
+1512,US,1932.2721210000002,American (Traditional),Monument Valley Navajo Tribal Park,2,3.0,88
+1513,IT,702.1689637999999,Bars,Juliet's Balcony,2,5.0,41
+1514,IT,779.5888569,Pizza,Juliet's Balcony,2,5.0,24
+1515,IT,571.9471649000001,Italian,Juliet's Balcony,3,5.0,20
+1516,IT,525.4031223999999,Italian,Juliet's Balcony,4,4.5,27
+1517,IT,494.9306108,Italian,Juliet's Balcony,2,4.5,25
+1518,IT,580.6023474,Italian,Juliet's Balcony,3,4.5,24
+1520,IT,723.7427798,Cafeteria,Juliet's Balcony,1,5.0,11
+1521,IT,563.3159168,Italian,Juliet's Balcony,3,4.5,17
+1522,IT,531.2175986000001,Italian,Juliet's Balcony,2,4.5,16
+1523,IT,616.3285227000001,Pizza,Juliet's Balcony,2,4.5,14
+1524,IT,483.67245049999997,Italian,Juliet's Balcony,3,4.5,11
+1525,IT,475.5215806,Pizza,Juliet's Balcony,3,4.0,16
+1526,IT,414.6684806,Italian,Juliet's Balcony,3,4.0,13
+1527,IT,739.2269189,Italian,Juliet's Balcony,2,4.5,14
+1528,IT,253.90178019999996,Italian,Juliet's Balcony,3,4.5,9
+1529,IT,1202.882641,Italian,Juliet's Balcony,4,4.5,14
+1530,IT,1142.5539609999998,Brasseries,Juliet's Balcony,3,4.5,13
+1531,IT,695.5378417999999,Mediterranean,Juliet's Balcony,4,5.0,5
+1532,IT,545.0097732,Italian,Juliet's Balcony,3,4.5,8
+1534,DE,1025.406694,Chocolatiers & Shops,Berlin Cathedral,3,4.5,292
+1537,DE,763.6779481000001,Mexican,Berlin Cathedral,1,4.0,495
+1539,DE,965.9911185000001,Vietnamese,Berlin Cathedral,2,4.0,595
+1541,DE,912.0349635,Ramen,Berlin Cathedral,2,4.0,259
+1542,DE,1195.260752,Syrian,Berlin Cathedral,1,4.5,149
+1543,DE,763.3885897999999,Cafes,Berlin Cathedral,2,4.0,242
+1544,DE,568.4725503,International,Berlin Cathedral,2,4.0,195
+1545,DE,1192.516897,Wine Bars,Berlin Cathedral,2,4.5,125
+1546,DE,2945.059832,Food Stands,Berlin Cathedral,1,4.5,808
+1548,DE,1208.8597140000002,Middle Eastern,Berlin Cathedral,1,4.0,250
+1549,DE,928.6713123,Breakfast & Brunch,Berlin Cathedral,2,4.0,205
+1550,DE,926.7090592000001,Burgers,Berlin Cathedral,2,4.0,275
+1551,DE,894.4574113,German,Berlin Cathedral,2,4.0,201
+1552,DE,1068.636309,Indonesian,Berlin Cathedral,2,4.0,264
+1554,FI,315.2667746,Coffee & Tea,Helsinki Cathedral,2,4.0,81
+1555,FI,519.4206862999999,Coffee & Tea,Helsinki Cathedral,1,4.5,55
+1556,FI,792.8075442,Scandinavian,Helsinki Cathedral,3,4.5,38
+1557,FI,342.16898530000003,Coffee & Tea,Helsinki Cathedral,3,4.0,48
+1558,FI,245.3284411,Coffee & Tea,Helsinki Cathedral,2,4.5,31
+1560,FI,488.97465480000005,Vegetarian,Helsinki Cathedral,1,4.5,20
+1561,FI,1012.8099990000001,Hawaiian,Helsinki Cathedral,2,4.5,40
+1562,FI,753.2481451,Asian Fusion,Helsinki Cathedral,3,4.0,42
+1563,FI,1590.945265,Scandinavian,Helsinki Cathedral,4,5.0,27
+1564,FI,826.0156433,Modern European,Helsinki Cathedral,2,4.0,54
+1565,FI,768.5247061000001,Speakeasies,Helsinki Cathedral,2,4.5,28
+1566,FI,504.82573360000004,Breakfast & Brunch,Helsinki Cathedral,2,4.0,36
+1567,FI,161.25661200000002,Coffee & Tea,Helsinki Cathedral,2,4.0,27
+1568,FI,195.57240349999998,Speakeasies,Helsinki Cathedral,2,4.5,16
+1569,FI,919.7133339,Modern European,Helsinki Cathedral,4,5.0,22
+1570,FI,1439.906436,Breakfast & Brunch,Helsinki Cathedral,3,4.5,62
+1571,FI,932.0332204,Mexican,Helsinki Cathedral,3,4.5,42
+1572,FI,263.5945901,Breweries,Helsinki Cathedral,2,4.0,29
+1573,DK,570.9389318,Cafes,Tivoli Gardens,1,4.5,165
+1574,DK,694.7830197000001,"Beer, Wine & Spirits",Tivoli Gardens,2,4.5,162
+1575,DK,1083.908347,Danish,Tivoli Gardens,3,4.5,166
+1576,DK,817.4446961,Cafes,Tivoli Gardens,1,4.0,237
+1577,DK,631.5692127,Lounges,Tivoli Gardens,3,4.5,105
+1578,DK,956.0657672,Bagels,Tivoli Gardens,1,4.5,132
+1579,DK,851.9252277999999,Seafood,Tivoli Gardens,3,4.0,155
+1580,DK,1126.365417,Breakfast & Brunch,Tivoli Gardens,1,4.5,112
+1581,DK,1416.144073,Breakfast & Brunch,Tivoli Gardens,1,4.5,198
+1582,DK,459.4148782,Danish,Tivoli Gardens,2,4.5,99
+1583,DK,490.4082425,Desserts,Tivoli Gardens,1,4.5,74
+1584,DK,348.242539,Beer Bar,Tivoli Gardens,2,4.5,67
+1585,DK,287.786899,Museums,Tivoli Gardens,1,4.5,67
+1586,DK,782.5154357999999,American (Traditional),Tivoli Gardens,1,4.5,69
+1587,DK,705.6020503,Cocktail Bars,Tivoli Gardens,3,4.5,45
+1588,DK,393.54279239999994,Scandinavian,Tivoli Gardens,3,4.5,44
+1589,DK,698.2031597,Pizza,Tivoli Gardens,2,4.0,111
+1590,DK,717.7348839,Burgers,Tivoli Gardens,2,4.0,97
+1591,DK,890.0650810000001,Sushi Bars,Tivoli Gardens,3,4.0,81
+1592,DK,939.8271731000001,Cafes,Tivoli Gardens,2,4.0,122
+1594,GB,601.0419787999999,Italian,"Bath, England",2,4.5,75
+1595,GB,557.2480577,Vegetarian,"Bath, England",3,4.5,42
+1596,GB,602.0201825,Italian,"Bath, England",2,4.5,51
+1597,GB,833.3782932,Pubs,"Bath, England",2,4.5,50
+1598,GB,530.5557098999999,Himalayan/Nepalese,"Bath, England",2,4.5,56
+1599,GB,562.965061,Moroccan,"Bath, England",2,4.5,27
+1600,GB,796.2580289,Coffee & Tea,"Bath, England",1,4.5,27
+1601,GB,1066.927316,Coffee & Tea,"Bath, England",2,4.5,29
+1602,GB,592.4888361000001,British,"Bath, England",2,3.5,63
+1603,GB,947.6083476,Fish & Chips,"Bath, England",2,5.0,14
+1604,GB,1224.7441789999998,Modern European,"Bath, England",3,5.0,21
+1605,GB,735.8061299,Pubs,"Bath, England",3,4.5,18
+1606,GB,836.9974906,Pubs,"Bath, England",1,5.0,17
+1607,GB,830.0757806,Coffee & Tea,"Bath, England",2,4.5,26
+1609,GB,1305.9925380000002,Pubs,"Bath, England",1,5.0,16
+1610,GB,758.8448836,Turkish,"Bath, England",1,4.0,24
+1611,GB,269.71953019999995,Chinese,"Bath, England",1,4.5,13
+1613,GB,395.60668419999996,Vegetarian,Brighton Pier,3,4.5,82
+1614,GB,564.7614682999999,Vegetarian,Brighton Pier,2,4.0,90
+1615,GB,690.608333,Seafood,Brighton Pier,3,4.5,65
+1617,GB,967.5250787999998,British,Brighton Pier,2,4.0,109
+1618,GB,1089.305842,Vegetarian,Brighton Pier,1,4.5,56
+1619,GB,711.0581074,Coffee & Tea,Brighton Pier,2,4.0,74
+1620,GB,842.8959017999999,Modern European,Brighton Pier,1,4.0,73
+1621,GB,377.0581992,Coffee & Tea,Brighton Pier,2,4.0,55
+1623,GB,671.7039990000001,Spanish,Brighton Pier,2,4.5,59
+1624,GB,939.8952549,Indian,Brighton Pier,2,4.5,75
+1625,GB,818.1713445,Japanese,Brighton Pier,1,4.0,73
+1626,GB,1086.3697769999999,Pubs,Brighton Pier,2,4.5,51
+1627,GB,485.2759252,Coffee & Tea,Brighton Pier,2,4.0,46
+1628,GB,442.9399695,Italian,Brighton Pier,2,4.5,27
+1629,GB,669.2436964,Pubs,Brighton Pier,2,4.5,36
+1630,GB,1482.087589,Pubs,Brighton Pier,2,4.5,56
+1631,GB,552.2052056,Fast Food,Brighton Pier,1,5.0,21
+1632,GB,647.2318251,Pubs,Brighton Pier,2,4.0,38
+1634,FR,728.9738434,Sandwiches,Disneyland Paris,2,4.0,46
+1635,FR,728.9738434,American (Traditional),Disneyland Paris,2,3.5,90
+1636,FR,804.9521406,Modern European,Disneyland Paris,3,3.5,60
+1637,FR,4.561194003,Seafood,Disneyland Paris,3,3.5,48
+1639,FR,536.2706898,French,Disneyland Paris,3,3.5,32
+1640,FR,0.0,American (Traditional),Disneyland Paris,3,3.5,18
+1641,FR,661.3271411000001,American (Traditional),Disneyland Paris,3,3.0,52
+1642,FR,827.2586233,Italian,Disneyland Paris,3,4.0,16
+1643,FR,353.83585560000006,Buffets,Disneyland Paris,4,4.0,8
+1644,FR,656.2483384999999,Performing Arts,Disneyland Paris,4,3.5,15
+1645,FR,117.71067649999999,Moroccan,Disneyland Paris,2,3.5,16
+1646,FR,728.9738434,German,Disneyland Paris,3,3.5,21
+1647,FR,753.9036463,Coffee & Tea,Disneyland Paris,2,3.0,23
+1648,FR,760.9977022,Italian,Disneyland Paris,2,4.0,8
+1649,FR,1866.2533420000002,Coffee & Tea,Disneyland Paris,1,4.0,17
+1650,FR,1764.964966,Burgers,Disneyland Paris,2,4.5,12
+1651,FR,712.1476986,Steakhouses,Disneyland Paris,3,2.5,25
+1652,FR,1671.968077,British,Disneyland Paris,2,4.0,6
+1654,GB,950.8637719000001,Cafes,Giant's Causeway,2,4.5,23
+1655,GB,3821.251747,Irish,Giant's Causeway,3,4.5,12
+1656,GB,4009.981269,Fast Food,Giant's Causeway,1,4.0,9
+1657,GB,1664.232948,Cafes,Giant's Causeway,1,3.0,7
+1658,GB,2264.8018260000003,Pubs,Giant's Causeway,2,3.5,5
+1659,GB,3925.1535,Coffee & Tea,Giant's Causeway,1,4.5,4
+1661,GB,4131.7826509999995,Pubs,Giant's Causeway,1,4.5,4
+1662,GB,3848.0455030000003,Pubs,Giant's Causeway,2,4.5,2
+1663,GB,956.4847120999999,Pubs,Giant's Causeway,2,3.0,2
+1667,US,69.64620034,Burgers,Alhambra,2,4.0,2060
+1668,US,721.4367092,Ramen,Alhambra,2,4.5,1895
+1669,US,100.18487309999999,Korean,Alhambra,2,4.0,2313
+1670,US,132.0896136,Pubs,Alhambra,2,4.0,1592
+1671,US,1938.289737,Pizza,Alhambra,1,4.0,3315
+1672,US,78.51483067,Indonesian,Alhambra,1,4.0,631
+1673,US,450.47590779999996,Hot Dogs,Alhambra,1,4.0,974
+1674,US,1635.387549,Vietnamese,Alhambra,1,4.0,2237
+1675,US,237.41850630000002,Tea Rooms,Alhambra,1,4.0,821
+1676,US,2010.31717,Seafood,Alhambra,2,4.0,2447
+1677,US,1929.3910870000002,Sandwiches,Alhambra,1,4.5,1412
+1678,US,70.46378175,Seafood,Alhambra,2,3.5,1170
+1679,US,45.08511405,Sushi Bars,Alhambra,2,4.0,1147
+1680,US,720.1187848999999,Ramen,Alhambra,1,4.0,1182
+1681,US,185.5572636,Coffee & Tea,Alhambra,1,4.0,479
+1682,US,1999.1673600000001,Korean,Alhambra,2,4.5,1243
+1683,US,81.38556798,Seafood,Alhambra,2,4.0,634
+1684,US,1684.851115,Tea Rooms,Alhambra,1,4.0,1573
+1685,US,1865.402532,Desserts,Alhambra,1,4.0,883
+1686,US,104.79875679999999,Cafes,Alhambra,2,4.0,276
+1687,FR,392.04508730000003,French,"Papel Palace, Avignon",2,4.0,114
+1688,FR,575.2881912,Restaurants,"Papel Palace, Avignon",3,4.5,84
+1689,FR,597.7668263999999,Japanese,"Papel Palace, Avignon",2,4.5,56
+1691,FR,116.871602,French,"Papel Palace, Avignon",4,4.5,57
+1692,FR,562.6792829,French,"Papel Palace, Avignon",2,4.5,39
+1693,FR,194.2132309,Cafes,"Papel Palace, Avignon",2,3.5,118
+1694,FR,135.38662580000002,Restaurants,"Papel Palace, Avignon",2,3.5,117
+1695,FR,312.84115299999996,French,"Papel Palace, Avignon",4,4.5,23
+1696,FR,648.3165051,French,"Papel Palace, Avignon",2,4.0,48
+1698,FR,330.7067032,Japanese,"Papel Palace, Avignon",2,4.5,21
+1700,FR,346.1623084,Moroccan,"Papel Palace, Avignon",2,4.5,32
+1701,FR,715.3379567000001,Cafes,"Papel Palace, Avignon",2,4.0,55
+1702,FR,283.98458910000005,French,"Papel Palace, Avignon",2,4.0,45
+1703,FR,201.5164326,French,"Papel Palace, Avignon",2,4.5,22
+1704,FR,404.33223169999997,Corsican,"Papel Palace, Avignon",2,4.5,25
+1706,FR,344.82592630000005,French,"Papel Palace, Avignon",3,4.5,17
+1708,FR,0.0,Mediterranean,Pond Du Garre,2,3.5,8
+1709,FR,2022.863957,Hotels,Pond Du Garre,2,3.5,6
+1710,FR,2211.885686,Creperies,Pond Du Garre,2,4.0,6
+1712,FR,2445.202969,Restaurants,Pond Du Garre,2,3.5,6
+1714,FR,475.70721669999995,Creperies,Pond Du Garre,2,3.0,1
+1725,AT,351.0627893,Coffee & Tea,Festung Hohensalzburg,2,4.5,77
+1726,AT,379.9763842,Austrian,Festung Hohensalzburg,2,4.5,61
+1727,AT,897.6389187999999,Austrian,Festung Hohensalzburg,2,4.5,84
+1728,AT,362.7268744,Austrian,Festung Hohensalzburg,3,4.0,69
+1729,AT,254.9160455,Vegan,Festung Hohensalzburg,2,5.0,20
+1730,AT,531.3188346,Coffee & Tea,Festung Hohensalzburg,3,4.0,99
+1731,AT,376.48684239999994,Austrian,Festung Hohensalzburg,2,4.0,42
+1732,AT,730.8089485,Fast Food,Festung Hohensalzburg,1,4.5,43
+1733,AT,545.0767517,Cafes,Festung Hohensalzburg,2,4.5,41
+1734,AT,624.1616061000001,Austrian,Festung Hohensalzburg,2,4.0,48
+1736,AT,864.9609747999999,Cafes,Festung Hohensalzburg,2,4.0,58
+1737,AT,799.7072816000001,Breakfast & Brunch,Festung Hohensalzburg,3,4.0,66
+1738,AT,1350.201015,Breweries,Festung Hohensalzburg,2,4.0,85
+1739,AT,170.04527130000002,Wine Bars,Festung Hohensalzburg,2,4.5,27
+1740,AT,866.5517678,Austrian,Festung Hohensalzburg,2,4.5,37
+1741,AT,545.1661716,Modern European,Festung Hohensalzburg,2,4.0,35
+1742,AT,845.7068581,African,Festung Hohensalzburg,2,4.0,38
+1743,AT,729.0345802,Burgers,Festung Hohensalzburg,1,4.5,25
+1746,CZ,1257.615309,Cocktail Bars,Prague Castle,2,4.5,194
+1747,CZ,1166.646094,Cafes,Prague Castle,2,4.5,274
+1748,CZ,1861.5949039999998,Breakfast & Brunch,Prague Castle,2,4.5,222
+1750,CZ,1264.3338880000001,Vegetarian,Prague Castle,2,4.5,164
+1751,CZ,205.0449599,Live/Raw Food,Prague Castle,2,4.5,74
+1752,CZ,1567.269969,Bars,Prague Castle,2,4.5,130
+1753,CZ,1956.9831350000002,Butcher,Prague Castle,2,4.5,140
+1754,CZ,871.7719115,Czech,Prague Castle,2,4.5,91
+1755,CZ,1622.16295,Czech,Prague Castle,2,4.0,270
+1756,CZ,1691.4022079999997,Mexican,Prague Castle,2,4.5,126
+1757,CZ,1433.178924,Czech,Prague Castle,2,4.5,137
+1758,CZ,1647.415214,Cafes,Prague Castle,2,4.0,291
+1759,CZ,1876.602217,Czech,Prague Castle,2,4.0,367
+1760,CZ,787.8824944,Mediterranean,Prague Castle,4,4.5,49
+1761,CZ,1136.897919,Cafes,Prague Castle,2,4.5,87
+1762,CZ,1635.008763,Vegetarian,Prague Castle,2,4.5,136
+1763,CZ,631.8132896000001,Czech,Prague Castle,2,4.0,83
+1765,CH,284.4322222,Chicken Shop,Chapel Bridge,2,4.0,52
+1766,CH,135.4683124,Swiss Food,Chapel Bridge,3,4.0,45
+1767,CH,142.69158259999998,French,Chapel Bridge,4,4.5,13
+1768,CH,772.7395156,Swiss Food,Chapel Bridge,2,4.5,31
+1769,CH,235.17044950000002,Halal,Chapel Bridge,2,4.0,22
+1770,CH,988.8289882000001,Swiss Food,Chapel Bridge,2,4.5,18
+1771,CH,550.9212299,Swiss Food,Chapel Bridge,2,4.0,21
+1773,CH,351.714996,Swiss Food,Chapel Bridge,4,4.0,18
+1774,CH,433.89872019999996,Italian,Chapel Bridge,3,4.5,22
+1775,CH,218.5403485,Italian,Chapel Bridge,2,4.0,23
+1776,CH,57.20726724,Pubs,Chapel Bridge,2,3.5,19
+1777,CH,171.07017390000001,Pubs,Chapel Bridge,3,3.5,27
+1778,CH,226.821532,Indian,Chapel Bridge,1,4.0,11
+1779,CH,498.92015999999995,Asian Fusion,Chapel Bridge,1,4.0,9
+1780,CH,420.5623625,Dance Clubs,Chapel Bridge,3,4.0,16
+1782,CH,268.99677210000004,Vegetarian,Chapel Bridge,1,4.5,11
+1784,IT,327.258386,Tuscan,"Piazza Del Campo, Siena",3,5.0,88
+1785,IT,62.29826144,Tuscan,"Piazza Del Campo, Siena",2,4.5,79
+1788,IT,306.22083010000006,Italian,"Piazza Del Campo, Siena",3,4.0,42
+1789,IT,175.65189650000002,Tuscan,"Piazza Del Campo, Siena",2,4.5,30
+1790,IT,386.0676762,Wine Bars,"Piazza Del Campo, Siena",2,5.0,14
+1791,IT,71.57380116,Italian,"Piazza Del Campo, Siena",2,4.5,18
+1792,IT,238.7222037,Tuscan,"Piazza Del Campo, Siena",3,4.5,18
+1793,IT,225.4407557,Italian,"Piazza Del Campo, Siena",1,4.5,17
+1794,IT,92.71084279,Tuscan,"Piazza Del Campo, Siena",3,4.0,17
+1795,IT,328.108417,Italian,"Piazza Del Campo, Siena",3,5.0,12
+1796,IT,477.2101668,Tuscan,"Piazza Del Campo, Siena",2,4.5,21
+1797,IT,729.6117472999999,Tuscan,"Piazza Del Campo, Siena",3,4.5,15
+1798,IT,294.39484260000006,Italian,"Piazza Del Campo, Siena",2,4.0,21
+1799,IT,158.5784963,Italian,"Piazza Del Campo, Siena",2,4.5,12
+1800,IT,442.04483439999996,Pizza,"Piazza Del Campo, Siena",2,4.5,14
+1801,IT,139.69435249999998,Italian,"Piazza Del Campo, Siena",3,4.5,8
+1802,IT,126.94510919999999,Desserts,"Piazza Del Campo, Siena",2,4.0,11
+1804,IT,26.97417655,Ligurian,Portofino,3,4.5,9
+1805,IT,55.03104704,Italian,Portofino,3,5.0,11
+1807,IT,190.3111907,Italian,Portofino,2,4.5,7
+1808,IT,3559.008328,Italian,Portofino,3,5.0,16
+1809,IT,144.85360930000002,Italian,Portofino,1,5.0,2
+1811,IT,42.3197251,Italian,Portofino,3,2.5,18
+1814,IT,82.8851423,Bars,Portofino,1,3.5,3
+1816,IT,3546.882564,Restaurants,Portofino,3,4.0,9
+1820,IT,3049.366721,Cafes,Portofino,3,4.5,7
+1823,IT,39.05770509,Bars,Portofino,4,3.0,2
+1825,BE,4984.303702,Seafood,"Atomium, Brussels",2,4.5,258
+1826,BE,5128.1062759999995,Belgian,"Atomium, Brussels",2,4.0,344
+1828,BE,1759.881009,Italian,"Atomium, Brussels",2,4.0,30
+1829,BE,5009.316371,Bakeries,"Atomium, Brussels",2,4.5,99
+1830,BE,4784.378664,Ethiopian,"Atomium, Brussels",3,4.0,100
+1831,BE,5106.343984,Modern European,"Atomium, Brussels",2,4.0,134
+1832,BE,4702.627716,Bistros,"Atomium, Brussels",4,4.0,72
+1833,BE,1.9008609969999999,Belgian,"Atomium, Brussels",4,3.5,16
+1834,BE,4789.381059,Bars,"Atomium, Brussels",2,4.0,71
+1835,BE,5152.699369,Cafes,"Atomium, Brussels",1,4.5,65
+1836,BE,4942.065519,Japanese,"Atomium, Brussels",2,4.0,71
+1837,BE,4405.660189,Seafood,"Atomium, Brussels",3,4.5,32
+1838,BE,4920.51266,Burgers,"Atomium, Brussels",2,3.5,172
+1839,BE,4669.12315,Greek,"Atomium, Brussels",3,4.0,59
+1840,BE,4896.254356,Belgian,"Atomium, Brussels",3,4.0,44
+1841,BE,2815.350564,Brasseries,"Atomium, Brussels",3,4.0,24
+1842,BE,1288.867161,n/a,"Atomium, Brussels",4,5.0,5
+1843,BE,4426.036258,Belgian,"Atomium, Brussels",2,4.0,57
+1845,ES,767.4856344,Basque,Guggenheim Museum (Bilbao),2,4.5,55
+1846,ES,907.4201860999999,Basque,Guggenheim Museum (Bilbao),4,4.5,19
+1847,ES,780.2266049,Tapas Bars,Guggenheim Museum (Bilbao),2,4.5,26
+1849,ES,56.06393288,Spanish,Guggenheim Museum (Bilbao),3,4.0,22
+1850,ES,277.50509689999996,Pizza,Guggenheim Museum (Bilbao),2,4.5,14
+1851,ES,852.0900981000001,Spanish,Guggenheim Museum (Bilbao),2,4.0,34
+1852,ES,945.8421726,Delis,Guggenheim Museum (Bilbao),1,4.0,27
+1853,ES,1397.2736710000001,Tapas Bars,Guggenheim Museum (Bilbao),2,4.5,17
+1854,ES,71.13212826,Basque,Guggenheim Museum (Bilbao),4,4.5,8
+1855,ES,867.6768519,Japanese,Guggenheim Museum (Bilbao),1,5.0,8
+1856,ES,1437.488473,Basque,Guggenheim Museum (Bilbao),1,4.0,19
+1857,ES,1376.1348449999998,Gastropubs,Guggenheim Museum (Bilbao),2,5.0,8
+1858,ES,1323.599048,Basque,Guggenheim Museum (Bilbao),1,4.0,16
+1859,ES,282.721338,Basque,Guggenheim Museum (Bilbao),3,4.5,6
+1861,ES,969.0054428,Mediterranean,Guggenheim Museum (Bilbao),2,3.5,11
+1862,ES,1334.29351,Tapas Bars,Guggenheim Museum (Bilbao),1,4.5,8
+1863,ES,797.4273502,Tapas Bars,Guggenheim Museum (Bilbao),2,4.5,6
+1864,US,608.0886906000001,Mediterranean,Hollywood Walk of Fame,3,4.0,1663
+1865,US,2035.2388449999999,Seafood,Hollywood Walk of Fame,4,4.5,2341
+1866,US,813.3946507,Performing Arts,Hollywood Walk of Fame,3,4.0,2065
+1867,US,1111.006822,Breakfast & Brunch,Hollywood Walk of Fame,2,4.0,3276
+1868,US,2663.757908,Breakfast & Brunch,Hollywood Walk of Fame,2,4.0,5045
+1869,US,470.9746919,Burgers,Hollywood Walk of Fame,2,4.0,1791
+1870,US,2533.660308,American (New),Hollywood Walk of Fame,2,4.0,4169
+1871,US,158.49476409999997,Steakhouses,Hollywood Walk of Fame,3,4.0,1181
+1872,US,475.39829969999994,Coffee & Tea,Hollywood Walk of Fame,1,4.5,477
+1873,US,2104.777565,Pizza,Hollywood Walk of Fame,2,4.0,3782
+1874,US,391.5595337,Music Venues,Hollywood Walk of Fame,2,4.5,552
+1875,US,432.7682572,Dance Clubs,Hollywood Walk of Fame,2,4.0,1094
+1876,US,1462.0773390000002,Thai,Hollywood Walk of Fame,1,4.5,1236
+1877,US,895.4449453,Japanese,Hollywood Walk of Fame,3,3.5,2865
+1878,US,1257.703309,Brazilian,Hollywood Walk of Fame,2,3.5,2698
+1879,US,837.7379844999999,Fast Food,Hollywood Walk of Fame,1,4.0,1317
+1881,US,514.1992805,Gastropubs,Hollywood Walk of Fame,2,3.5,1581
+1882,US,896.8695926000001,Sandwiches,Hollywood Walk of Fame,2,4.0,1589
+1883,US,743.8132413,Burgers,Hollywood Walk of Fame,2,3.5,1732
+1885,DK,1304.891261,Cafes,Amalienborg Palace,1,4.0,237
+1886,DK,1626.843603,Cafes,Amalienborg Palace,1,4.5,165
+1887,DK,377.33060930000005,Breakfast & Brunch,Amalienborg Palace,2,4.0,123
+1888,DK,1310.32512,Lounges,Amalienborg Palace,3,4.5,105
+1889,DK,703.8326735,Scandinavian,Amalienborg Palace,4,5.0,34
+1890,DK,1682.047411,Danish,Amalienborg Palace,3,4.5,166
+1891,DK,1386.447089,Bagels,Amalienborg Palace,1,4.5,132
+1892,DK,1301.169122,Open Sandwiches,Amalienborg Palace,2,4.5,74
+1893,DK,340.7088501,Vietnamese,Amalienborg Palace,1,4.0,66
+1894,DK,1247.635951,American (Traditional),Amalienborg Palace,1,4.5,69
+1896,DK,1449.7154289999999,Breakfast & Brunch,Amalienborg Palace,1,4.5,112
+1897,DK,382.73375649999997,Steakhouses,Amalienborg Palace,3,4.0,58
+1898,DK,1000.5777720000001,Cafes,Amalienborg Palace,2,4.0,122
+1899,DK,1230.939283,Burgers,Amalienborg Palace,2,4.0,97
+1900,DK,1077.787153,Open Sandwiches,Amalienborg Palace,3,4.5,47
+1902,DK,758.3602241,Cocktail Bars,Amalienborg Palace,3,4.0,71
+1903,DK,1023.061419,Italian,Amalienborg Palace,2,4.5,48
+1906,US,2442.06045,Cocktail Bars,Ellis Island Immigration Museum,2,4.0,1215
+1907,US,1908.5031420000003,Mexican,Ellis Island Immigration Museum,1,4.0,1440
+1908,US,2492.6190420000003,Seafood,Ellis Island Immigration Museum,2,4.5,915
+1910,US,1624.00535,Cafes,Ellis Island Immigration Museum,2,4.0,522
+1911,US,2373.605198,Cafes,Ellis Island Immigration Museum,1,4.5,346
+1912,US,2069.197842,Italian,Ellis Island Immigration Museum,2,4.0,595
+1913,US,2095.4305059999997,Korean,Ellis Island Immigration Museum,2,4.0,652
+1914,US,1673.0006529999998,Wine Bars,Ellis Island Immigration Museum,3,4.0,546
+1915,US,2361.350858,Mexican,Ellis Island Immigration Museum,2,4.0,793
+1917,US,3371.549458,Barbeque,Ellis Island Immigration Museum,2,4.0,982
+1918,US,2061.995986,Diners,Ellis Island Immigration Museum,2,3.5,1149
+1920,US,2490.4535960000003,Latin American,Ellis Island Immigration Museum,2,4.0,660
+1921,US,1081.9117130000002,American (New),Ellis Island Immigration Museum,3,3.5,366
+1922,US,2587.3091329999997,Seafood,Ellis Island Immigration Museum,2,4.5,499
+1923,US,2310.839175,Thai,Ellis Island Immigration Museum,2,4.5,252
+1924,GB,774.6130178,Indian,British Museum,2,4.5,1147
+1925,GB,663.5030329,British,British Museum,3,4.5,286
+1926,GB,560.9140142000001,Coffee & Tea,British Museum,2,4.5,272
+1927,GB,496.4383735,Indian,British Museum,2,4.0,410
+1928,GB,849.8738117,Dim Sum,British Museum,3,4.0,441
+1929,GB,787.6953388,Burgers,British Museum,2,4.5,238
+1930,GB,554.4312315000001,Pizza,British Museum,2,4.5,178
+1931,GB,585.7038831,British,British Museum,2,4.5,200
+1932,GB,761.6471761,Seafood,British Museum,2,4.0,252
+1933,GB,1136.44368,Indian,British Museum,2,4.5,287
+1935,GB,419.5375864,Cantonese,British Museum,4,4.0,210
+1937,GB,261.1362724,French,British Museum,2,4.5,168
+1938,GB,782.6133848999999,Coffee & Tea,British Museum,2,4.0,420
+1939,GB,1299.41101,Wine Bars,British Museum,2,4.5,371
+1940,GB,1254.038481,French,British Museum,3,4.0,529
+1941,GB,824.1027129,Mexican,British Museum,2,4.0,293
+1942,GB,729.3501787,Coffee & Tea,British Museum,2,4.5,131
+1943,GB,796.9071501,Thai,British Museum,2,4.0,354
+1944,GB,112.62529340000002,Pubs,Oxford University,2,4.0,98
+1945,GB,344.6790195,Thai,Oxford University,3,4.5,49
+1946,GB,477.35996639999996,Pubs,Oxford University,2,4.0,104
+1947,GB,209.5012823,Cafes,Oxford University,1,4.5,46
+1948,GB,123.08406140000001,Coffee & Tea,Oxford University,1,4.5,27
+1949,GB,994.6665255,Tapas Bars,Oxford University,2,4.5,41
+1950,GB,96.19088749,Pubs,Oxford University,2,4.0,33
+1951,GB,372.73373039999996,Pubs,Oxford University,2,4.0,32
+1952,GB,29.91264953,Pubs,Oxford University,2,3.5,49
+1953,GB,528.2985549,Ice Cream & Frozen Yogurt,Oxford University,1,4.0,37
+1954,GB,472.60551960000004,Thai,Oxford University,2,4.0,28
+1955,GB,225.8698255,Japanese,Oxford University,2,4.0,29
+1956,GB,185.7827038,British,Oxford University,2,4.0,36
+1957,GB,377.064665,Italian,Oxford University,3,4.5,14
+1958,GB,795.2010349999999,Food,Oxford University,2,4.0,30
+1959,GB,530.8311521,Coffee & Tea,Oxford University,2,4.0,21
+1960,GB,825.159163,Pubs,Oxford University,2,4.0,20
+1962,GB,334.7085494,Sandwiches,Oxford University,2,5.0,10
+1963,GB,433.81954529999996,Pubs,Oxford University,2,4.0,26
+1967,TR,792.3420275000001,Turkish,"Blue Mosque, Istanbul",2,4.5,95
+1969,TR,445.0948239,Turkish,"Blue Mosque, Istanbul",1,4.5,49
+1970,TR,606.8639897999999,Cafes,"Blue Mosque, Istanbul",2,5.0,49
+1971,TR,278.754009,Turkish,"Blue Mosque, Istanbul",2,4.0,71
+1972,TR,936.604345,Landmarks & Historical Buildings,"Blue Mosque, Istanbul",2,4.0,122
+1973,TR,1380.724395,Public Markets,"Blue Mosque, Istanbul",2,4.5,69
+1974,TR,350.06519380000003,Turkish,"Blue Mosque, Istanbul",2,4.0,33
+1975,TR,305.3596246,Italian,"Blue Mosque, Istanbul",3,5.0,25
+1976,TR,1437.727272,Turkish,"Blue Mosque, Istanbul",2,4.0,87
+1977,TR,2013.1295559999999,Turkish,"Blue Mosque, Istanbul",3,4.5,50
+1978,TR,366.6495185,Bakeries,"Blue Mosque, Istanbul",2,4.5,27
+1980,TR,1889.485516,Coffee & Tea,"Blue Mosque, Istanbul",1,4.5,40
+1981,TR,240.7361297,Day Spas,"Blue Mosque, Istanbul",3,4.5,24
+1983,TR,868.0613667000001,Turkish,"Blue Mosque, Istanbul",2,4.5,35
+1984,GB,588.1650707,Indian,Piccadilly Circus,2,4.5,1147
+1985,GB,481.4969143999999,Indian,Piccadilly Circus,2,4.5,287
+1986,GB,569.5905825,French,Piccadilly Circus,3,4.0,529
+1987,GB,810.2239896000001,Wine Bars,Piccadilly Circus,2,4.5,371
+1988,GB,722.8052906,British,Piccadilly Circus,3,4.5,286
+1989,GB,403.9858273,Dim Sum,Piccadilly Circus,3,4.0,441
+1990,GB,524.0321182,Cafes,Piccadilly Circus,3,4.0,427
+1991,GB,348.217485,Steakhouses,Piccadilly Circus,2,4.5,287
+1992,GB,383.42875449999997,Burgers,Piccadilly Circus,2,4.5,238
+1993,GB,718.4610746000001,Coffee & Tea,Piccadilly Circus,2,4.5,272
+1995,GB,322.01486739999996,Mediterranean,Piccadilly Circus,3,4.5,232
+1996,GB,457.69090020000004,British,Piccadilly Circus,1,4.0,327
+1998,GB,402.4761964,Seafood,Piccadilly Circus,2,4.0,252
+2000,GB,807.3159956000001,Indian,Piccadilly Circus,2,4.0,410
+2001,GB,185.00956269999998,Japanese,Piccadilly Circus,2,4.0,297
+2003,GB,517.739153,Coffee & Tea,Piccadilly Circus,2,4.0,420
+2004,GB,496.14457350000004,Indian,Trafalgar Square,2,4.5,1147
+2007,GB,324.58820289999994,Wine Bars,Trafalgar Square,2,4.5,371
+2008,GB,977.2213582999999,Indian,Trafalgar Square,2,4.5,287
+2009,GB,629.4372682,British,Trafalgar Square,3,4.5,286
+2011,GB,1073.089143,French,Trafalgar Square,3,4.0,529
+2012,GB,709.5300881000001,Coffee & Tea,Trafalgar Square,2,4.5,272
+2013,GB,797.4968816,Dim Sum,Trafalgar Square,3,4.0,441
+2015,GB,896.9938561,Cafes,Trafalgar Square,3,4.0,427
+2016,GB,683.7662785,Burgers,Trafalgar Square,2,4.5,238
+2018,GB,786.7926221,Indian,Trafalgar Square,2,4.0,410
+2019,GB,846.8561967,Steakhouses,Trafalgar Square,2,4.5,287
+2020,GB,666.2569344999999,Seafood,Trafalgar Square,2,4.0,252
+2022,GB,825.6288956000001,Mediterranean,Trafalgar Square,3,4.5,232
+2023,GB,951.9503173,British,Trafalgar Square,1,4.0,327
